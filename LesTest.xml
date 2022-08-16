@@ -48,10 +48,10 @@
          <entry xml:id="QV.babybutch" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>baby butch</orth></form>
             <sense xml:id="QV.babybutch.1">
-               <usg type="socioCultural" expand="homoit0000231"/>
-               <usg type="geographic">(kwn NYC,</usg>
+               
+               <pc>(</pc><usg type="geographic">kwn NYC</usg><pc>,</pc>
                <usg type="socioCultural"> les sl</usg>
-               <usg type="time">mid-late '60s)</usg>
+               <usg type="time">mid-late '60s</usg><pc>)</pc>
                <def>boyish, adolescent lesbian.</def>
             </sense>
             <lbl>Syn:</lbl>
@@ -59,10 +59,10 @@
             <entry xml:id="QV.camper" xml:lang="en">
                <form type="lemma"><orth>camper</orth></form>
                <sense xml:id="QV.camper.1">
-                  <usg type="socioCultural" expand="homoit0000231"/>
-                  <usg type="geographic">(kwn LV,</usg>
-                  <usg type="socioCultural">les sl,</usg>
-                  <usg type="time"> late 60s)</usg>
+                  
+                  <pc>(</pc><usg type="geographic">kwn LV</usg><pc>,</pc>
+                  <usg type="socioCultural">les sl</usg><pc>,</pc>
+                  <usg type="time"> late 60s</usg> <pc>)</pc>
                </sense>
                <pc>;</pc>
             </entry>
@@ -70,10 +70,10 @@
             <entry xml:id="QV.camptruck" xml:lang="en">
                <form type="lemma"><orth>camp truck</orth></form>
                <sense xml:id="QV.camptruck.1">
-                  <usg type="socioCultural" expand="homoit0000231"/>
-                  <usg type="geographic">(kwn LV,</usg>
-                  <usg type="socioCultural">les sl,</usg>
-                  <usg type="time">late ’60s)</usg>
+                  
+                  <pc>(</pc><usg type="geographic">kwn LV</usg><pc>,</pc>
+                  <usg type="socioCultural">les sl</usg><pc>,</pc>
+                  <usg type="time">late '60s</usg><pc>)</pc>
                </sense>
 
                <pc>;</pc>
@@ -82,9 +82,9 @@
             <entry xml:id="QV.dinkydyke" xml:lang="en">
                <form type="lemma"><orth>dinky dyke</orth></form>
                <sense xml:id="QV.dinkydyke.1">
-                  <usg type="socioCultural" expand="homoit0000231"/>
-                  <usg type="geographic">(kwn SF.</usg>
-                  <usg type="time">71-72)</usg>
+                  
+                  <pc>(</pc><usg type="geographic">kwn SF</usg><pc>.</pc>
+                  <usg type="time">71-72</usg> <pc>)</pc>
                </sense>
 
                <pc>;</pc>
@@ -94,10 +94,11 @@
             <entry xml:id="QV.semi-diesel" xml:lang="en">
                <form type="lemma"><orth expand="semi-diesel">semi-diesel</orth></form>
                <sense xml:id="QV.semi-diesel.1"/>
-               <usg type="socioCultural" expand="homoit0000231"/>
+               
+               <pc>.</pc>
             </entry>
 
-            <pc>.</pc>
+
 
          </entry>
          <entry xml:id="QV.barhandles" xml:lang="en" type="mainEntry">
@@ -113,16 +114,16 @@
             <entry xml:id="QV.fuckhandles" xml:lang="en">
                <form type="lemma"><orth> fuck handles</orth></form>
                <sense xml:id="QV.fuckhandles.1">
-                  <usg type="geographic">(kwn NYC,</usg>
-                  <usg type="time">late ’60s)</usg>
+                  <pc>(</pc><usg type="geographic">kwn NYC</usg><pc>,</pc>
+                  <usg type="time">late '60s</usg><pc>)</pc>
                </sense>
             </entry>
          </entry>
          <entry xml:id="QV.beard" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>beard</orth></form>
             <sense xml:id="QV.beard.1">
-               <usg type="geographic">(kwn LV,</usg>
-               <usg type="time">mid 60s:</usg>
+               <pc>(</pc><usg type="geographic">kwn LV</usg><pc>,</pc>
+               <usg type="time">mid 60s</usg><pc>:</pc>
                <etym>fr beard = virility symbol) </etym>
                <def><lbl>1.</lbl> a woman who dates homosexual men to help them socially</def>
             </sense>
@@ -133,23 +134,23 @@
                </cit>
             </sense>
             <lbl>Syn:</lbl>
-            <entry xml:id="QV.flinking" xml:lang="en">
+            <entry xml:id="QV.flinking" xml:lang="en" >
                <form type="lemma"><orth>flinking</orth></form>
                <sense xml:id="QV.flinking.1">
-                  <usg type="geographic">(Brit gay sl).</usg>
+                  <pc>(</pc><usg type="geographic">Brit gay sl</usg><pc>).</pc>
                </sense>
             </entry>
          </entry>
          <entry xml:id="QV.BF" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>BF</orth></form>
             <sense xml:id="QV.BF.1">
-               <usg type="socioCultural">(les sl,</usg>
-               <usg type="time">mid ’60s,</usg>
+               <pc>(</pc><usg type="socioCultural">les sl</usg><pc>,</pc>
+               <usg type="time">mid '60s</usg><pc>,</pc>
                <etym>acronym for boy friend)</etym>
                <def> the lesbian who assumes the male role in a partnership romance.</def>
             </sense>
             <lbl>But</lbl>
-            
+
             <entry xml:id="QV.realBF" xml:lang="en">
                <form type="lemma"><orth>real BF</orth></form>
                <sense xml:id="QV.realBF.1">
@@ -173,9 +174,9 @@
             </sense>
             <sense xml:id="QV.Bill.3">
                <lbl>3.</lbl>
-               <usg type="geographic">(kwn LV,</usg>
-               <usg type="socioCultural">les sl,</usg>
-               <usg type="time">mid '60s)</usg>
+               <pc>(</pc><usg type="geographic">kwn LV</usg><pc>,</pc>
+               <usg type="socioCultural">les sl</usg><pc>,</pc>
+               <usg type="time">mid '60s</usg><pc>)</pc>
                <def>banter term between mannish lesbians</def>
                <cit type="example">
                   <quote>“Hey, Bill, who was that redhead in your bed this morning?”</quote>
@@ -183,7 +184,7 @@
             </sense>
          </entry>
          <entry xml:id="QV.bisexual" xml:lang="en" type="mainEntry">
-            <form type="lemma"><orth>bisexual</orth>(bi-seksh’-wal,</form> 
+            <form type="lemma"><orth>bisexual</orth>(bi-seksh'-wal,</form>
             <sense xml:id="QV.bisexual.1">
                <etym> fr L prefix bi = two, lit meaning hermaphroditic)</etym>
                <def>sexually interested in both men and women He's bisexual—he digs both men and
@@ -198,186 +199,206 @@
             <lbl>Syn:</lbl>
             <entry xml:id="QV.AC-DC" xml:lang="en">
                <form type="lemma"><orth>AC-DC</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.acey-deucy" xml:lang="en">
                <form type="lemma"><orth>acey-deucy</orth></form>
+
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.ambidextrous" xml:lang="en">
                <form type="lemma"><orth>ambidextrous</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.ambisextrous" xml:lang="en">
                <form type="lemma"><orth>ambisextrous</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.ambisexual" xml:lang="en">
                <form type="lemma"><orth>ambisexual</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.bi" xml:lang="en">
                <form type="lemma"><orth>bi</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.bicyclerider" xml:lang="en">
                <form type="lemma"><orth>bicycle [rider]</orth></form>
                <sense xml:id="QV.bicyclerider.1">
-                  <usg type="geographic">(kwn LV, </usg>
+                  <pc>(</pc><usg type="geographic">kwn LV </usg><pc>,</pc>
                   <usg type="domain">jazz musician sl</usg>
-                  <usg type="time">, mid '60s);</usg>
+                  <pc>,</pc> <usg type="time"> mid '60s</usg> <pc>);</pc>
                </sense>
             </entry>
-            
+
             <entry xml:id="QV.convertible" xml:lang="en">
                <form type="lemma"><orth>convertible</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.double-gaited" xml:lang="en">
                <form type="lemma"><orth>double-gaited</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.double-lifeman" xml:lang="en">
                <form type="lemma"><orth>double-life man</orth></form>
                <sense xml:id="QV.double-lifeman.1">
-                  <usg type="time">(40s)</usg>
+                  <pc>(</pc> <usg type="time">40s</usg> <pc>)</pc>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.flippy" xml:lang="en">
                <form type="lemma"><orth>flippy</orth></form>
                <sense xml:id="QV.flippy.1">
                   <def> (also used of a homosexual who is able to fuck or be fucked)</def>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.gate-swinger" xml:lang="en">
                <form type="lemma"><orth>gate-swinger</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.graycat" xml:lang="en">
                <form type="lemma"><orth>gray cat</orth></form>
                <sense xml:id="QV.graycat.1">
-                  <usg type="geographic">(kwn SF,</usg>
-                  <usg type="socioCultural">hip gay sl,</usg>
-                  <usg type="time">late '60s:</usg>
+                  <pc>(</pc><usg type="geographic">kwn SF</usg><pc>,</pc>
+                  <usg type="socioCultural">hip gay sl</usg><pc>,</pc>
+                  <usg type="time">late '60s</usg><pc>:</pc>
                   <def> one whose sex life is gray, ie unclear);</def>
                </sense>
             </entry>
-            
+
             <entry xml:id="QV.half-and-half" xml:lang="en">
                <form type="lemma"><orth>half-and-half</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.halfbent" xml:lang="en">
                <form type="lemma"><orth>half bent</orth></form>
                <sense xml:id="QV.halfbent.1">
-                  <usg type="geographic">(Brit gay sl)</usg>
+                  <pc>(</pc><usg type="geographic">Brit gay sl</usg><pc>)</pc>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.sidesaddlequeen" xml:lang="en">
                <form type="lemma"><orth>sidesaddle queen</orth></form>
                <sense xml:id="QV.sidesaddlequeen.1">
-                  <usg type="geographic">(kwn LA,</usg>
-                  <usg type="time">late '50s:</usg>
+                  <pc>(</pc><usg type="geographic">kwn LA</usg><pc>,</pc>
+                  <usg type="time">late '50s</usg><pc>:</pc>
                   <cit type="example">
                      <quote>“Get lost! Sidesaddle queens were all the rage last week")</quote>
                   </cit>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.switch-hitter" xml:lang="en">
                <form type="lemma"><orth>switch-hitter</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
-            
+
+
             <entry xml:id="QV.two-waybaby" xml:lang="en">
                <form type="lemma"><orth>two-way baby</orth></form>
                <sense xml:id="QV.two-waybaby.1">
-                  <usg type="time"> (early '60s).</usg>
+                  <pc>(</pc> <usg type="time"> early '60s</usg><pc>).</pc>
                </sense>
             </entry>
-            
+
             <lbl>Related terms:</lbl>
-            
+
             <entry xml:id="QV.bi-lingual" xml:lang="en">
                <form type="lemma"><orth>bi-lingual</orth></form>
                <sense xml:id="QV.bi-lingual.1">
                   <def> orally bisexual, ie gratified by sucking either a man or a woman.</def>
                </sense>
             </entry>
-            
+
             <entry xml:id="QV.dabbler" xml:lang="en">
                <form type="lemma"><orth>dabbler</orth></form>
                <sense xml:id="QV.dabbler.1">
-                  <usg type="socioCultural">(les sl)</usg>
+                  <pc>(</pc> <usg type="socioCultural">les sl</usg><pc>)</pc>
                   <def> suburban housewife giving lesbianism a try. </def>
                </sense>
             </entry>
-            
+
             <entry xml:id="QV.gilletteblade" xml:lang="en">
                <form type="lemma"><orth>gillette blade</orth></form>
                <sense xml:id="QV.gilletteblade.1">
-                  <usg type="socioCultural">(les sl,</usg>
-                  <usg type="time">early ’60s,</usg>
-                  <def> fr double-edged Gillette blade) bisexual woman. </def>
+                  <pc>(</pc><usg type="socioCultural">les sl</usg><pc>,</pc>
+                  <usg type="time">early '60s,</usg>
+                  <etym>fr double-edged Gillette blade</etym>
+                  <pc>)</pc><def>  bisexual woman. </def>
                </sense>
             </entry>
-            
+
             <entry xml:id="QV.gobothways" xml:lang="en">
                <form type="lemma"><orth>go both ways</orth></form>
                <sense xml:id="QV.gobothways.1">
                   <def> to be bisexual.</def>
                </sense>
                <lbl>Syn:</lbl>
-               
+
                <entry xml:id="QV.playbothsidesofthefence" xml:lang="en">
-                  <form type="lemma"><orth>play both sides of the fence</orth></form></entry>
-               
-               <pc>;</pc>
-               
+                  <form type="lemma"><orth>play both sides of the fence</orth></form>
+                  <pc>;</pc>
+               </entry>
+
+
+
                <entry xml:id="QV.wearbifocals" xml:lang="en">
                   <form type="lemma"><orth>wear bifocals</orth></form>
+                  <pc>; </pc>
                </entry>
-               
-               <pc>; </pc>
-               
+
+
+
                <entry xml:id="QV.weartwopairsofshoes" xml:lang="en">
                   <form type="lemma"><orth>wear two [pairs of] shoes</orth></form>
                   <sense xml:id="QV.weartwopairsofshoes.1">
-                     <usg type="domain">(fr pros sl,</usg>
-                     <usg type="time">’30s)</usg>
+                     <pc>(</pc><usg type="domain">fr pros sl</usg><pc>,</pc>
+                     <usg type="time">'30s</usg><pc>)</pc>
                   </sense>
-                  
-                  
+                  <pc>.</pc>
+
                </entry>
             </entry>
-            <pc>.</pc>
-            
+
+
             <entry xml:id="QV.half-husband" xml:lang="en">
                <form type="lemma"><orth>half-husband</orth></form>
                <sense xml:id="QV.half-husband.1">
-                  <def> married man with a homosexual liaison on the side; he has one foot upon
-                     dry heterosexual land and the other in hot, gay water.</def>
+                  <def> married man with a homosexual liaison on the side; he has one foot upon dry
+                     heterosexual land and the other in hot, gay water.</def>
                </sense>
             </entry>
-            
-            
+
+
             <entry xml:id="QV.onthefence" xml:lang="en">
                <form type="lemma"><orth>on the fence</orth></form>
                <sense xml:id="QV.onthefence.1">
@@ -389,7 +410,7 @@
                   <pc>.</pc>
                </entry>
             </entry>
-            
+
          </entry>
          <entry xml:id="QV.blowoffsteam" xml:lang="en" type="relatedEntry">
             <!--originally in blow-->
@@ -406,7 +427,7 @@
             <sense xml:id="QV.bull.1">
                <pc>(</pc>
                <usg type="time">40s</usg>
-               <usg type="socioCultural" expand="lesbian"> </usg>
+               
                <pc>)</pc>
                <lbl>1.</lbl>
                <def>the obvious, aggressive lesbian</def>
@@ -424,7 +445,7 @@
                <pc>)</pc>
                <def>note, letter</def>
                <cit type="example">
-                  <quote>"Here’s your bull—what's it say?” </quote>
+                  <quote>"Here's your bull—what's it say?” </quote>
                </cit>
             </sense>
             <lbl>3. </lbl>
@@ -438,11 +459,13 @@
             <entry xml:id="QV.bulldagger" xml:lang="en">
                <form type="lemma"><orth expand="bull dagger">—dagger</orth></form>
                <sense xml:id="QV.bulldagger.1">
-                  <def> <lbl>1.</lbl> the burly lesbian who dresses more like a truck driver than a PTA member;
-                     lesbians who assume the male role in lovemaking</def>
+                  <def>
+                     <lbl>1.</lbl> the burly lesbian who dresses more like a truck driver than a PTA
+                     member; lesbians who assume the male role in lovemaking</def>
                </sense>
                <sense xml:id="QV.bulldagger.2">
-                  <def><lbl>2.</lbl> girlish homosexual man who will conduct himself in a two-fisted fashion </def>
+                  <def><lbl>2.</lbl> girlish homosexual man who will conduct himself in a two-fisted
+                     fashion </def>
                   <cit type="example">
                      <quote>“Why you coming on like a bull-dagger, dear; trying to impress a piece
                         of sweet ass?”</quote>
@@ -454,13 +477,14 @@
             <entry xml:id="QV.bullbitchdyke" xml:lang="en">
                <form type="lemma"><orth>bull bitch</orth>
                   <form type="variant"><orth expand="bulldyke">[dyke]</orth></form></form>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
 
             <entry xml:id="QV.bulldicker" xml:lang="en">
                <form type="lemma"><orth expand="bull dicker">—dicker</orth></form>
                <sense xml:id="QV.bulldicker.1">
-                  <etym>(fr sl dick = cock)</etym>
+                  <pc>(</pc><etym>fr sl dick = cock</etym><pc>)</pc>
                   <def> the active lesbian whose extended clitoris enables her to fuck in a
                      face-to-face position imitating heterosexual coitus.</def>
                </sense>
@@ -470,7 +494,7 @@
          <entry xml:id="QV.butch" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>butch</orth></form>
             <sense xml:id="QV.butch.1">
-               <etym>(fr sl butch cut = man’s severely cut hair style)</etym>
+               <pc>(</pc><etym>fr sl butch cut = man's severely cut hair style</etym><pc>)</pc>
                <def><lbl>1.</lbl> lesbian with masculine characteristics,</def>
             </sense>
             <lbl>see</lbl>
@@ -478,59 +502,64 @@
                <ref type="entry" target="#QV.dyke">*dyke</ref>
             </xr>
             <sense xml:id="QV.butch.2">
-               <def><lbl>2.</lbl> (40s) nonhomosexual man whose virile appearance both draws and repels the
-                  homosexual (repels because of the danger of the violence if the butch is enraged
-                  by a gay proposition).</def>
+               <lbl>2.</lbl> <pc>(</pc><usg type="time">40s</usg><pc>)</pc> <def>nonhomosexual man whose virile appearance both draws and
+                  repels the homosexual (repels because of the danger of the violence if the butch
+                  is enraged by a gay proposition).</def>
             </sense>
             <lbl>Syn:</lbl>
 
             <entry xml:id="QV.allman" xml:lang="en">
                <form type="lemma"><orth>all man</orth></form>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.butchnumber" xml:lang="en">
                <form type="lemma"><orth>butch number</orth></form>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.hesexual" xml:lang="en">
                <form type="lemma"><orth>hesexual</orth></form>
                <sense xml:id="QV.hesexual.1">
-                  <usg type="frequency">(rare)</usg>
+                  <pc>(</pc><usg type="frequency">rare</usg><pc>)</pc>
                </sense>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.kane" xml:lang="en">
-               <form type="lemma"><orth>kane</orth></form>
-               <dictScrap>(ka’-na, fr Haw = male: for further secrecy; Haw gays disguise this word
-                  with pig- latin anekay)</dictScrap>
+               <form type="lemma"><orth>kane</orth><pron>(ka'-na, </pron></form>
+               <etym>fr <lang expand="Hawaiian" norm="haw">Haw</lang> = male: for further secrecy; Haw gays disguise this word
+                  with pig- latin anekay)</etym>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
 
             <entry xml:id="QV.RM" xml:lang="en">
                <form type="lemma"><orth>RM</orth></form>
                <sense xml:id="QV.RM.1">
-                  <def> (acronym fr real man = virile, skirt-chasing, beer-drinking he-man)</def>
+                   <etym>(acronym fr real man = virile, skirt-chasing, beer-drinking he-man)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <xr>
                <ref type="entry" target="#QV.stud">*stud</ref>
             </xr>
 
             <sense xml:id="QV.butch.3">
-               <lbl>3.  </lbl>
+               <lbl>3. </lbl>
                <usg type="hint">(adj)</usg>
                <def>manly in speech, in fashions and in bed; submission impossible</def>
                <cit type="example">
-                  <quote>“He’s strictly butch —he wouldn't roll over for a gay apostle.”</quote>
+                  <quote>“He's strictly butch —he wouldn't roll over for a gay apostle.”</quote>
                </cit>
             </sense>
             <lbl>Syn:</lbl>
@@ -542,46 +571,51 @@
                      <quote>('I like 'em big”)</quote>
                   </cit>
                </sense>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.boonch" xml:lang="en">
                <form type="lemma"><orth>boonch</orth></form>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.bootch" xml:lang="en">
                <form type="lemma"><orth>bootch</orth></form>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.butz" xml:lang="en">
                <form type="lemma"><orth>butz</orth><pron>(bots, a lisped butch:</pron></form>
                <sense xml:id="QV.butz.1">
                   <cit type="example">
-                     <quote>“But I am butz; I am. I am!")</quote>
+                     <quote>“But I am butz; I am. I am!"</quote><pc>)</pc>
                   </cit>
                </sense>
+               <pc>;</pc>
             </entry>
 
-            <pc>;</pc>
+
 
             <entry xml:id="QV.chesty" xml:lang="en">
                <form type="lemma"><orth>chesty</orth></form>
+               <pc>; </pc>
             </entry>
 
-            <pc>; </pc>
+
 
             <entry xml:id="QV.masc" xml:lang="en">
                <form type="lemma"><orth>masc</orth></form>
                <sense xml:id="QV.masc.1">
-                  <def>(short for masculine: </def>
+                  <pc>(</pc><def>short for masculine </def><pc>:</pc>
                   <cit type="example">
-                     <quote>“That one’s so masc. all the world to him is one big fix-it
-                        palace!)</quote>
+                     <quote>“That one's so masc. all the world to him is one big fix-it
+                        palace!"</quote><pc>)</pc>
                   </cit>
                </sense>
             </entry>
@@ -589,20 +623,21 @@
             <entry xml:id="QV.ButchAsKong" xml:lang="en">
                <form type="lemma"><orth expand="butch as Kong">—as Kong</orth></form>
                <sense xml:id="QV.ButchAsKong.1">
-                  <usg type="geographic">(Brit gay sl,</usg>
-                  <def>fr movie ape King Kong) very, very masculine; hulking</def>
+                  <pc>(</pc><usg type="geographic">Brit gay sl</usg><pc>,</pc>
+                  <etym>fr movie ape King Kong</etym><pc>)</pc><def> very, very masculine; hulking</def>
                </sense>
+               <pc>. </pc>
             </entry>
-            <pc>. </pc>
+
             <entry xml:id="QV.butcher" xml:lang="en">
                <form type="lemma"><orth expand="butcher">—er</orth></form>
                <sense xml:id="QV.butcher.1">
-                  <usg type="attitude">(pej)</usg>
+                  <pc>(</pc><usg type="attitude">pej</usg><pc>)</pc>
                   <def>to <xr>
                         <ref type="entry">*fuck</ref>
                      </xr>, especially to deflower a young man</def>
                   <cit type="example">
-                     <quote>"If they're old enough to bleed, they’re old enough to butcher.”</quote>
+                     <quote>"If they're old enough to bleed, they're old enough to butcher.”</quote>
                   </cit>
                </sense>
             </entry>
@@ -610,12 +645,12 @@
             <entry xml:id="QV.butcherboy" xml:lang="en">
                <form type="lemma"><orth expand="butcher boy"> —er boy</orth></form>
                <sense xml:id="QV.butcherboy.1">
-                  <usg type="time">(dated,</usg>
-                  <usg type="socioCultural">les sl,</usg>
-                  <usg type="time">'30s)</usg>
-                  
-                     <def>homosexual who has sexual relations with a lesbian.</def>
-                  
+                  <pc>(</pc> <usg type="time">dated</usg><pc>,</pc>
+                  <usg type="socioCultural">les sl</usg><pc>,</pc>
+                  <usg type="time">'30s</usg> <pc>)</pc>
+
+                  <def>homosexual who has sexual relations with a lesbian.</def>
+
                </sense>
             </entry>
 
@@ -623,7 +658,7 @@
             <entry xml:id="QV.butchershop" xml:lang="en">
                <form type="lemma"><orth expand="butcher shop">—er shop</orth></form>
                <sense xml:id="QV.butchershop.1">
-                  <def>used in statement “the butcher shop is closed!’ denying the requests of a
+                  <def>used in statement “the butcher shop is closed!' denying the requests of a
                      cocksucker</def>
                   <def> “Stop manhandling your sister— the butcher shop is closed for
                      repairs.”</def>
@@ -634,7 +669,7 @@
             <entry xml:id="QV.butchfluff" xml:lang="en">
                <form type="lemma"><orth expand="butch fluff"> —fluff</orth></form>
                <sense xml:id="QV.butchfluff.1">
-                  <usg type="socioCultural">(les sl)</usg>
+                  <pc>(</pc><usg type="socioCultural">les sl</usg><pc>)</pc>
                   <def> masculine courtesies performed by an active *dyke: opening car doors for a
                      date, lighting another's cigarette, etc.</def>
                </sense>
@@ -644,7 +679,7 @@
             <entry xml:id="QV.butchitup" xml:lang="en">
                <form type="lemma"><orth expand="butch it up">—it up</orth></form>
                <sense xml:id="QV.butchitup.1">
-                  <def>warning to act manly in the presence of friends who “don’t know” or the
+                  <def>warning to act manly in the presence of friends who “don't know” or the
                      police who do </def>
                   <cit type="example">
                      <quote>“Butch it up, Mae, Tilly's got us spotted.”</quote>
@@ -653,14 +688,15 @@
                <lbl>Syn:</lbl>
                <entry xml:id="QV.BIU" xml:lang="en">
                   <form type="lemma"><orth>BIU</orth></form>
+                  <pc>; </pc>
                </entry>
-               <pc>; </pc>
+
                <entry xml:id="QV.cleanitup" xml:lang="en
                   ">
                   <form type="lemma">clean [it] up</form>
                   <sense xml:id="QV.cleanitup.1">
-                     <usg type="geographic">(kwn LA,</usg>
-                     <usg type="time">'70).</usg>
+                     <pc>(</pc><usg type="geographic">kwn LA</usg><pc>,</pc>
+                     <usg type="time">'70</usg><pc>).</pc>
                   </sense>
                </entry>
             </entry>
@@ -677,41 +713,44 @@
                   </xr>
 
                   <cit type="example">
-                     <quote> (“You can’t tell a nooky by its cover.”)</quote>
+                     <quote> (“You can't tell a nooky by its cover.”)</quote>
                   </cit>
                </sense>
 
                <entry xml:id="QV.crew-cutqueen" xml:lang="en">
                   <form type="lemma"><orth>crew-cut queen</orth></form>
+                  <pc>;</pc>
                </entry>
 
-               <pc>;</pc>
+
 
                <entry xml:id="QV.hairymary" xml:lang="en">
                   <form type="lemma"><orth>hairy mary</orth></form>
                   <sense xml:id="QV.hairymary.1">
-                     <usg type="geographic">(kwn LV,</usg>
-                     <usg type="time">mid ’60s)</usg>
+                     <pc>(</pc><usg type="geographic">kwn LV</usg><pc>,</pc>
+                     <usg type="time">mid '60s</usg><pc>)</pc>
                   </sense>
+                  <pc>;</pc>
                </entry>
 
-               <pc>;</pc>
+
 
                <entry xml:id="QV.roarer" xml:lang="en">
                   <form type="lemma"><orth>roarer</orth></form>
                   <sense xml:id="QV.roarer.1">
-                     <usg type="geographic">(Brit gay sl)</usg>
+                     <pc>(</pc><usg type="geographic">Brit gay sl</usg><pc>)</pc>
                   </sense>
+                  <pc>.</pc>
                </entry>
 
-               <pc>.</pc>
+
             </entry>
             <entry xml:id="QV.butchschool" xml:lang="en">
                <form type="lemma"><orth expand="butch school">—school</orth></form>
                <sense xml:id="QV.butchschool.1">
-                  <usg type="geographic">(kwn LA,</usg>
-                  <usg type="socioCultural">les sl,</usg>
-                  <usg type="time">late '50s)</usg>
+                  <pc>(</pc><usg type="geographic">kwn LA</usg><pc>,</pc>
+                  <usg type="socioCultural">les sl</usg><pc>,</pc>
+                  <usg type="time">late '50s</usg><pc>)</pc>
                   <def>any place, but usually a private home where effeminate public personalities
                      are taught how to act manly.</def>
                </sense>
@@ -719,10 +758,11 @@
             <entry xml:id="QV.butchstone" xml:lang="en">
                <form type="lemma"><orth expand="butch stone">—stone</orth></form>
                <sense xml:id="QV.butchstone.1">
-                  <usg type="socioCultural">(camp)</usg>
+                  <pc>(</pc><usg type="socioCultural">camp</usg><pc>)</pc>
                   <def>boulder</def>
                   <cit type="example">
-                     <quote>“It’s difficult lifting these butch stones, dear; my brand-new marble pumps keep slipping.”</quote>
+                     <quote>“It's difficult lifting these butch stones, dear; my brand-new marble
+                        pumps keep slipping.”</quote>
                   </cit>
                </sense>
             </entry>
@@ -743,86 +783,8 @@
                <ref type="entry">[nance] walk.</ref>
             </xr>
          </entry>
-         
-         <entry xml:id="QV.clit" xml:lang="en" type="mainEntry">
-            <form type="lemma"><orth>clit</orth></form>
-            <sense xml:id="QV.clit.1">
-               <usg type="socioCultural" expand="lesbian"/>
-               <pc>(</pc>
-               <etym>fr <lang expand="latin" norm="la">L</lang> // <lang xml:lang="Greek" norm="grc"
-                     >Gk</lang> kleitoris</etym>
-               <pc>)</pc>
-               <def>clitoris; primary organ of erotic sensation in the female </def>
-               <cit type="example">
-                  <quote>“I want me a dong, princess, not some exaggerated clit like that thing
-                     you've got” “I've got to go pick up a book on clit disorders.”</quote>
-               </cit>
-            </sense>
 
-            <lbl>Syn:</lbl>
 
-            <entry xml:id="QV.button" xml:lang="en">
-               <form type="lemma"><orth>button</orth></form>
-               <sense xml:id="QV.button.1">
-                  <pc>(</pc>
-                  <def> push the button = fingering the clitoris until orgasm</def>
-               </sense>
-            </entry>
-            <pc>)</pc>
-            <pc>;</pc>
-
-            <entry xml:id="QV.dot" xml:lang="en">
-               <form type="lemma"><orth>dot</orth></form>
-            </entry>
-            <pc>;</pc>
-            <entry xml:id="QV.jointess" xml:lang="en">
-               <form type="lemma"><orth>jointess</orth></form>
-               <sense xml:id="QV.jointess.1">
-                  <pc>(</pc>
-                  <usg type="socioCultural">camp</usg>
-                  <usg type="socioCultural" expand="lesbian"> </usg>
-                  <pc>,</pc>
-                  <etym>fr sl joint = cock</etym>
-                  <pc>;</pc>
-                  <def> the clitoris becomes erect like a penis when stimulated</def>
-               </sense>
-            </entry>
-            <pc>)</pc>
-            <entry xml:id="QV.littleboyintheboat" xml:lang="en">
-               <form type="lemma"><orth>little boy in the boat</orth></form>
-               <sense xml:id="QV.littleboyintheboat.1">
-                  <pc>(</pc>
-                  <etym>fr <lang expand="latin" norm="la">L</lang> naviculans = clitoris // navicula
-                     = boat</etym>
-               </sense>
-            </entry>
-            <pc>)</pc>
-            <pc>.</pc>
-
-            <entry xml:id="QV.clitcloset" xml:lang="en">
-               <form type="lemma"><orth expand="clit closet">—closet</orth></form>
-               <sense xml:id="QV.clitcloset.1">
-                  <pc>(</pc>
-                  <usg type="time">71</usg>
-                  <pc>)</pc>
-                  <def> hotel which rents rooms to prostitutes and their <xr>
-                        <ref type="entry">*johns</ref>
-                     </xr>. </def>
-               </sense>
-            </entry>
-            <lbl>Syn:</lbl>
-            <entry xml:id="QV.hotsheetshotel" xml:lang="en">
-               <form type="lemma"><orth>hot-sheets hotel</orth></form>
-               <sense xml:id="QV.hotsheetshotel.1">
-                  <pc>(</pc>
-                  <usg type="domain">pros sl</usg>
-                  <pc>,</pc>
-                  <usg type="time"> '70</usg>
-                  <pc>)</pc>
-                  <pc>.</pc>
-               </sense>
-            </entry>
-         </entry>
          <entry xml:id="QV.closetcase" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>closet case</orth><form type="variant"><orth
                      expand="closet queen">[queen,</orth></form>
@@ -831,9 +793,9 @@
                <pc>(</pc>
                <usg type="attitude">pej</usg>
                <pc>)</pc>
-               <def><lbl>1.</lbl> homosexual who denies his sexual longings. A closet case is resented by his
-                  fellow homosexuals for being a gay Uncle Tom—servile to the heterosexual
-                  majority </def>
+               <def><lbl>1.</lbl> homosexual who denies his sexual longings. A closet case is
+                  resented by his fellow homosexuals for being a gay Uncle Tom—servile to the
+                  heterosexual majority </def>
                <cit type="example">
                   <quote>“There is bound to be at least one closet queen work- ing for the FBI in
                      San Fran”</quote>
@@ -846,7 +808,7 @@
                <pc>)</pc>
                <def> a latent homosexual</def>
                <cit type="example">
-                  <quote>“Of course, he’s noncommittal—what did you expect from a closet
+                  <quote>“Of course, he's noncommittal—what did you expect from a closet
                      queer?”</quote>
                </cit>
             </sense>
@@ -859,8 +821,9 @@
                   <usg type="time">late '50s</usg>
                   <pc>)</pc>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.cedarchestcissy" xml:lang="en">
                <form type="lemma"><orth>cedarchest cissy</orth></form>
                <sense xml:id="QV.cedarchestcissy.1">
@@ -869,9 +832,10 @@
                   <pc>,</pc>
                   <usg type="time">late 60s</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
+
+
             <entry xml:id="QV.crushedfruit" xml:lang="en">
                <form type="lemma"><orth>crushed fruit</orth></form>
                <sense xml:id="QV.crushedfruit.1">
@@ -880,9 +844,10 @@
                   <pc>:</pc>
                   <def> because he is crushed by society's mores</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
+
+
             <entry xml:id="QV.dryqueen" xml:lang="en">
                <form type="lemma"><orth>dry queen</orth></form>
                <sense xml:id="QV.dryqueen.1">
@@ -891,21 +856,24 @@
                   <pc>,</pc>
                   <usg type="time">late '60s</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
+
+
             <entry xml:id="QV.hiddenqueen" xml:lang="en">
                <form type="lemma"><orth>hidden queen</orth></form>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.pinktea" xml:lang="en">
                <form type="lemma"><orth>pink tea</orth></form>
                <sense xml:id="QV.pinktea.1">
                   <pc>(</pc>
                   <def> = the after-hours homosexual</def>
                </sense>
+               <pc>)</pc>
             </entry>
-            <pc>)</pc>
+
 
 
             <entry xml:id="QV.undercoverfag" xml:lang="en">
@@ -917,9 +885,10 @@
                   <pc>(</pc>
                   <usg type="time">'40s-mid '60s</usg>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>)</pc>
-            <pc>.</pc>
+
+
 
             <lbl>Related terms:</lbl>
             <entry xml:id="QV.closetdyke" xml:lang="en">
@@ -961,7 +930,7 @@
          <entry xml:id="QV.cookieduster" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>cookie duster</orth></form>
             <sense xml:id="QV.cookieduster.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <def> any mustache, but usually the bristles found on the upper lip of some women
                   charged with being lesbians</def>
                <cit type="example">
@@ -971,19 +940,21 @@
             <lbl>Syn:</lbl>
             <entry xml:id="QV.mufftickler" xml:lang="en">
                <form type="lemma"><orth>muff tickler</orth></form>
+               <pc>, </pc>
             </entry>
-            <pc>, </pc>
+
             <entry xml:id="QV.pussyduster" xml:lang="en">
                <form type="lemma"><orth>pussy duster</orth></form>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
             <entry xml:id="QV.wombbroom" xml:lang="en">
                <form type="lemma"><orth>womb broom</orth></form>
                <sense xml:id="QV.wombbroom.1">
                   <pc>(</pc>
                   <etym>fr black sl</etym>
-                  <pc>)</pc>
-                  <pc>.</pc>
+                  <pc>).</pc>
+
                </sense>
             </entry>
          </entry>
@@ -1043,7 +1014,7 @@
                <pc>(</pc>
                <usg type="socioCultural">camp</usg>
                <pc>)</pc>
-               <def> a cocksucker’s mouth</def>
+               <def> a cocksucker's mouth</def>
                <cit type="example">
                   <quote>“Close your filthy cunt; I don't want to hear any more about it!"</quote>
                </cit>
@@ -1053,15 +1024,16 @@
             <entry xml:id="QV.coin-slot" xml:lang="en">
                <form type="lemma"><orth>coin-slot</orth></form>
                <sense xml:id="QV.coin-slot.1"/>
+               <pc>, </pc>
             </entry>
-            <pc>, </pc>
+
 
             <entry xml:id="QV.cookie" xml:lang="en">
                <form type="lemma"><orth>cookie</orth></form>
                <sense xml:id="QV.cookie.1">
                   <pc>(</pc>
                   <cit type="example">
-                     <quote>"I'm only twee and a ha’f years old, an’ already I have hair on my
+                     <quote>"I'm only twee and a ha'f years old, an' already I have hair on my
                         cookie”</quote>
                   </cit>
                </sense>
@@ -1075,13 +1047,14 @@
                <sense xml:id="QV.cooze.1">
                   <pc>(</pc>
                   <cit type="example">
-                     <quote>“Does that dull dyke really love that girl, or is she just talkin’
+                     <quote>“Does that dull dyke really love that girl, or is she just talkin'
                         through her cooze?”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.crack" xml:lang="en">
                <form type="lemma"><orth>crack</orth></form>
@@ -1092,9 +1065,10 @@
                         Saying”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.creamcatcher" xml:lang="en">
                <form type="lemma"><orth>cream catcher</orth></form>
@@ -1102,15 +1076,17 @@
                   <pc>(</pc>
                   <etym>fr sl cream = semen</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.crease" xml:lang="en">
                <form type="lemma"><orth>crease</orth></form>
                <sense xml:id="QV.crease.1"/>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
 
             <entry xml:id="QV.crooney" xml:lang="en">
                <form type="lemma"><orth>crooney</orth></form>
@@ -1134,9 +1110,10 @@
                   <pc>, </pc>
                   <usg type="time">late '60s-71</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.cunker" xml:lang="en">
                <form type="lemma"><orth expand="cunker">cunker</orth>
@@ -1152,9 +1129,10 @@
                         cunker"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.cuntie" xml:lang="en">
                <form type="lemma"><orth>cuntie</orth></form>
@@ -1165,9 +1143,10 @@
                         twilight"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.gash" xml:lang="en">
                <form type="lemma"><orth>gash</orth></form>
@@ -1177,9 +1156,10 @@
                      <quote>“Turn up your gash; I'm colder'n Hell!"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
+
+
 
             <entry xml:id="QV.hole" xml:lang="en">
                <form type="lemma"><orth>hole</orth></form>
@@ -1188,9 +1168,10 @@
                   <pc>(</pc>
                   <def> shut your hole! = shut-up</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.katoka" xml:lang="en">
                <form type="lemma"><orth>katoka</orth><pron>ka-to'-ka,</pron></form>
@@ -1202,30 +1183,33 @@
                      <quote>“Did he marry her just for that katoka?”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.knish" xml:lang="en">
-               <form type="lemma"><orth>knish</orth><pron>k’-nish’</pron></form>
+               <form type="lemma"><orth>knish</orth><pron>k'-nish'</pron></form>
                <sense xml:id="QV.knish.1">
                   <pc>(</pc>
-                  <pc>, </pc>
+
                   <etym>fr <lang>Yid</lang> = dumpling:</etym>
                   <cit type="example">
                      <quote>“She's doing the Can-Can? It looks more like she has ants in her
                         knish"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.merchandise" xml:lang="en">
                <form type="lemma"><orth>merchandise</orth></form>
                <sense xml:id="QV.merchandise.1"/>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
 
             <entry xml:id="QV.nooky" xml:lang="en">
                <form type="lemma"><orth>nooky</orth>
@@ -1238,15 +1222,17 @@
                      <ref type="entry">*ass</ref>
                   </xr>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.noose" xml:lang="en">
                <form type="lemma"><orth>noose</orth></form>
                <sense xml:id="QV.noose.1"/>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
 
             <entry xml:id="QV.puka" xml:lang="en">
                <form type="lemma"><orth>puka</orth>
@@ -1258,9 +1244,10 @@
                      <quote>“There's room enough in her puka for an entire Army”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
+
+
 
             <entry xml:id="QV.quiff" xml:lang="en">
                <form type="lemma"><orth>quiff</orth></form>
@@ -1268,9 +1255,10 @@
                   <pc>(</pc>
                   <usg type="frequency">rare</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.scratch" xml:lang="en">
                <form type="lemma"><orth>scratch</orth></form>
@@ -1278,9 +1266,10 @@
                   <pc>(</pc>
                   <usg type="frequency">dated</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
+
+
 
             <entry xml:id="QV.shmoya" xml:lang="en">
                <form type="lemma"><orth>shmoya</orth></form>
@@ -1288,21 +1277,22 @@
                   <pc>(</pc>
                   <etym>?fr <lang>Yid</lang></etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
 
             <entry xml:id="QV.slit" xml:lang="en">
                <form type="lemma"><orth>slit</orth></form>
                <sense xml:id="QV.slit.1"/>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
 
             <entry xml:id="QV.slot" xml:lang="en">
                <form type="lemma"><orth>slot</orth></form>
                <sense xml:id="QV.slot.1"/>
+               <pc>; </pc>
             </entry>
-            <pc>; </pc>
+
 
             <entry xml:id="QV.snatch" xml:lang="en">
                <form type="lemma"><orth>snatch</orth></form>
@@ -1312,9 +1302,8 @@
                      <quote>“Why's your hair so white, Snatch; is it frostbitten?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
 
             <entry xml:id="QV.twat" xml:lang="en">
                <form type="lemma"><orth>twat</orth></form>
@@ -1324,17 +1313,16 @@
                      <quote>“I love the ground that twat hobbies on”</quote>
                   </cit>
                </sense>
-                  <pc>: </pc>
-                  <entry xml:id="QV.twathair" xml:lang="en">
-                     <form type="lemma"><orth>twat hair</orth></form>
-                     <sense xml:id="QV.twathair.1">
-                        <def> = beard</def>
-                     </sense>
-                  </entry>
-               
+               <pc>: </pc>
+               <entry xml:id="QV.twathair" xml:lang="en">
+                  <form type="lemma"><orth>twat hair</orth></form>
+                  <sense xml:id="QV.twathair.1">
+                     <def> = beard</def>
+                  </sense>
+               </entry>
+
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
 
             <entry xml:id="QV.yawn" xml:lang="en">
                <form type="lemma"><orth>yawn</orth></form>
@@ -1342,9 +1330,8 @@
                   <pc>(</pc>
                   <usg type="frequency">rare</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>; </pc>
 
             <entry xml:id="QV.zosh" xml:lang="en">
                <form type="lemma"><orth>zosh</orth></form>
@@ -1359,8 +1346,9 @@
                         that she looks like a Hallmark Christmas card.”</quote>
                   </cit>
                </sense>
+               <pc>)</pc>
             </entry>
-            <pc>)</pc>
+
 
             <entry xml:id="QV.cunty" xml:lang="en">
                <form type="lemma"><orth expand="cunty">—y</orth></form>
@@ -1406,7 +1394,7 @@
             <entry xml:id="QV.drytuck" xml:lang="en">
                <form type="lemma"><orth>dry tuck</orth></form>
                <sense xml:id="QV.drytuck.1">
-                  <usg type="socioCultural"> (kwn Calif women's prison sl)</usg>
+                  <pc>(</pc><usg type="socioCultural"> kwn Calif women's prison sl</usg><pc>)</pc>
                </sense>
             </entry>
          </entry>
@@ -1435,14 +1423,14 @@
                <pc>;</pc>
                <etym> fr “digging something out” of a nook</etym>
                <pc>:</pc>
-               <def> a popular joke campingly shouted back and forth between lesbians and
-                  queens was <quote>“Do you dig boy ass?"</quote></def>
+               <def> a popular joke campingly shouted back and forth between lesbians and queens was
+                     <quote>“Do you dig boy ass?"</quote></def>
             </sense>
          </entry>
          <entry xml:id="QV.dildo" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>dildo</orth></form>
             <sense xml:id="QV.dildo.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <etym>(fr sl diddle = both to masturbate or copulate and pass the time idly and
                   leisurely)</etym>
                <def>artificial cock-like implement of plastic, hard rubber, etc. Used by women to
@@ -1456,15 +1444,17 @@
             <entry xml:id="QV.dilldoll" xml:lang="en">
                <form type="lemma"><orth>dill doll</orth></form>
                <sense xml:id="QV.dilldoll.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.dingus" xml:lang="en">
                <form type="lemma"><orth>dingus</orth></form>
                <sense xml:id="QV.dingus.1">
                   <etym> (fr <lang expand="German" norm="de">Ger</lang> ding = thing)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.Johnsonbar" xml:lang="en">
                <form type="lemma"><orth>Johnson bar</orth></form>
                <sense xml:id="QV.Johnsonbar.1">
@@ -1476,8 +1466,9 @@
                   </cit>
                   <pc>)</pc>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.potatofinger" xml:lang="en">
                <form type="lemma"><orth>potato finger</orth></form>
                <sense xml:id="QV.potatofinger.1">
@@ -1489,13 +1480,15 @@
             <entry xml:id="QV.prop" xml:lang="en">
                <form type="lemma"><orth>prop</orth></form>
                <sense xml:id="QV.prop.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.trainingbar" xml:lang="en">
                <form type="lemma"><orth>training bar</orth></form>
                <sense xml:id="QV.trainingbar.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.womanshomecompanion" xml:lang="en">
                <form type="lemma"><orth>woman's home companion</orth></form>
                <sense xml:id="QV.womanshomecompanion.1">
@@ -1514,23 +1507,26 @@
                <sense xml:id="QV.bientateur.1">
                   <def> = do-gooder)</def>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.consolateur" xml:lang="fr">
                <form type="lemma"><orth>consolateur</orth></form>
                <sense xml:id="QV.consolateur.1">
                   <def> = relaxer</def>
                </sense>
+               <pc>)</pc>
+               <pc>,</pc>
             </entry>
-            <pc>)</pc>
-            <pc>,</pc>
+
             <entry xml:id="QV.godemiche" xml:lang="fr">
                <form type="lemma"><orth>godemiche</orth><pc>(</pc><pron>go-de-mesh'</pron></form>
                <sense xml:id="QV.godemiche.1">
                   <def> = I enjoy myself</def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
             <lbl>Germany</lbl>
             <entry xml:id="QV.Phallus-Phantom" xml:lang="de">
@@ -1538,8 +1534,9 @@
                <sense xml:id="QV.Phallus-Phantom.1">
                   <def> = spectre penis</def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
             <lbl>Italy</lbl>
             <entry xml:id="QV.passatiempo" xml:lang="it">
@@ -1548,8 +1545,9 @@
                <sense xml:id="QV.passatiempo.1">
                   <def> = pass-the-time</def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
             <lbl>Related terms:</lbl>
             <entry xml:id="QV.decoy" xml:lang="en">
@@ -1568,20 +1566,21 @@
                      <pc>).</pc>
                   </sense>
                </entry>
-               <entry xml:id="QV.doubledildo" xml:lang="en">
-                  <form type="lemma"><orth>double dildo</orth></form>
-                  <sense xml:id="QV.doubledildo.1">
-                     <def> two-headed dildo.</def>
-                  </sense>
-               </entry>
-               <entry xml:id="QV.snap-on" xml:lang="en">
-                  <form type="lemma"><orth expand="snap on">snap-on</orth>
-                     <form type="variant"><orth expand="snap-on tool">[tool]</orth></form></form>
-                  <sense xml:id="QV.snap-on.1">
-                     <def> dildo strapped to the pelvis of the active lesbian as she assumes the
-                        male position for coitus.</def>
-                  </sense>
-               </entry>
+            </entry>
+            <entry xml:id="QV.doubledildo" xml:lang="en">
+               <form type="lemma"><orth>double dildo</orth></form>
+               <sense xml:id="QV.doubledildo.1">
+                  <def> two-headed dildo.</def>
+               </sense>
+            </entry>
+            <entry xml:id="QV.snap-on" xml:lang="en">
+               <form type="lemma"><orth expand="snap on">snap-on</orth>
+                  <form type="variant"><orth expand="snap-on tool">[tool]</orth></form></form>
+               <sense xml:id="QV.snap-on.1">
+                  <def> dildo strapped to the pelvis of the active lesbian as she assumes the male
+                     position for coitus.</def>
+               </sense>
+
             </entry>
          </entry>
          <entry xml:id="QV.dime-a-dance" xml:lang="en" type="mainEntry">
@@ -1600,13 +1599,14 @@
                <etym>fr a torch song revived during '50s</etym>
                <pc>)</pc>
                <def> male homosexual</def>
+               <pc>.</pc>
             </sense>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.dike" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>dike</orth></form>
             <sense xml:id="QV.dike.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <xr>
                   <lbl>see</lbl>
                   <ref type="entry" target="#QV.dyke">*dyke</ref>
@@ -1646,13 +1646,14 @@
             <entry xml:id="QV.soiledseniorcitizen" xml:lang="en">
                <form type="lemma"><orth>soiled senior citizen</orth></form>
                <sense xml:id="QV.soiledseniorcitizen.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.dizzy" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>dizzy</orth></form>
             <sense xml:id="QV.dizzy.1">
-               <usg type="time">('30s)</usg>
+               <pc>(</pc> <usg type="time">'30s</usg><pc>)</pc>
                <lbl>1.</lbl>
                <def> foolish, silly, meshuga</def>
             </sense>
@@ -1669,32 +1670,35 @@
             <lbl>Syn:</lbl>
             <entry xml:id="QV.cracky" xml:lang="en">
                <form type="lemma"><orth>cracky</orth></form>
-               <sense xml:id="QV.cracky.1">
-                  <usg type="time"> ('72,</usg>
+               <sense xml:id="QV.cracky.1"><pc>(</pc>
+                  <usg type="time"> '72</usg><pc>,</pc>
                   <etym>fr crackpot</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.dingie" xml:lang="en">
                <form type="lemma"><orth>dingie</orth>
                   <pron>(ding'-e)</pron></form>
                <sense xml:id="QV.dingie.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.silly" xml:lang="en">
                <form type="lemma"><orth>silly</orth></form>
                <sense xml:id="QV.silly.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.twinky" xml:lang="en">
                <form type="lemma"><orth>twinky</orth></form>
                <sense xml:id="QV.twinky.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.dizzylizzy" xml:lang="en">
                <form type="lemma"><orth expand="dizzy lizzy">-lizzy</orth></form>
                <sense xml:id="QV.dizzylizzy.1">
-                  <usg type="socioCultural">(camp)</usg>
+                  <pc>(</pc><usg type="socioCultural">camp</usg><pc>)</pc>
                   <def> slow-thinking, dim-witted lesbian.</def>
                </sense>
             </entry>
@@ -1728,7 +1732,7 @@
                <entry xml:id="QV.dinglefaggot" xml:lang="en">
                   <form type="lemma"><orth>dingle faggot</orth></form>
                   <sense xml:id="QV.dinglefaggot.1">
-                     <usg type="time">(early '60s)</usg>
+                     <pc>(</pc> <usg type="time">early '60s</usg> <pc>)</pc>
                   </sense>
                </entry>
                <pc>;</pc>
@@ -1769,7 +1773,7 @@
                <entry xml:id="QV.Myrna" xml:lang="en">
                   <form type="lemma"><orth>Myrna</orth></form>
                   <sense xml:id="QV.Myrna.1">
-                     <usg type="attitude"> (pej)</usg>
+                     <pc>(</pc><usg type="attitude"> pej</usg><pc>)</pc>
                   </sense>
                </entry>
                <pc>;</pc>
@@ -1783,7 +1787,7 @@
                <entry xml:id="QV.twink" xml:lang="en">
                   <form type="lemma"><orth>twink</orth></form>
                   <sense xml:id="QV.twink.1">
-                     <usg type="frequency"> (rare)</usg>
+                     <pc>(</pc><usg type="frequency"> rare</usg><pc>)</pc>
                   </sense>
                </entry>
                <pc>; </pc>
@@ -1795,23 +1799,24 @@
                      </cit>
                   </sense>
                </entry>
+               <pc>)</pc>
+               <pc>.</pc>
             </entry>
-            <pc>)</pc>
-            <pc>.</pc>
+
             <xr>
                <lbl>Also see</lbl>
-               <xr>
-                  <ref type="entry">*Dilbert Dildo</ref>
-               </xr>
+
+               <ref type="entry">*Dilbert Dildo</ref>
+               <pc>.</pc>
             </xr>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.dollracket" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>doll racket</orth></form>
             <sense xml:id="QV.dollracket.1">
                <pc>(</pc>
                <usg type="geographic">Ill</usg>
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <usg type="socioCultural">women's prison sl</usg>
                <pc>,</pc>
                <usg type="time">'60s</usg>
@@ -1823,8 +1828,9 @@
                <form type="lemma"><orth expand="chick business">chick[girl] business</orth><form
                      type="variant"><orth expand="girl business"/></form></form>
                <sense xml:id="QV.chickbusiness.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.dragbutch" xml:lang="en">
             <!--originally under drag-->
@@ -1836,26 +1842,29 @@
             <entry xml:id="QV.dragking" xml:lang="en">
                <form type="lemma"><orth>drag king</orth></form>
                <sense xml:id="QV.dragking.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.dragster" xml:lang="en">
                <form type="lemma"><orth>dragster</orth></form>
                <sense xml:id="QV.dragster.1"/>
+               <pc>,</pc>
             </entry>
-            <pc>,</pc>
+
             <entry xml:id="QV.mack-truck" xml:lang="en">
                <form type="lemma"><orth>mack-truck</orth></form>
                <sense xml:id="QV.mack-truck.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.masquerader" xml:lang="en">
                <form type="lemma"><orth>masquerader</orth></form>
                <sense xml:id="QV.masquerader.1">
                   <pc> (</pc>
                   <usg type="socioCultural">les sl</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.MI" xml:lang="en">
                <form type="lemma"><orth>MI</orth></form>
                <sense xml:id="QV.MI.1">
@@ -1863,8 +1872,9 @@
                         <ref type="entry">*drag show</ref>
                      </xr></def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
          </entry>
          <entry xml:id="QV.dude" xml:lang="en" type="mainEntry">
@@ -1921,26 +1931,29 @@
                   <usg type="time">'30s</usg>
                   <etym> fr pros sl</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.brother-girl" xml:lang="en">
                <form type="lemma"><orth>brother-girl</orth></form>
                <sense xml:id="QV.brother-girl.1">
                   <etym> (<lang expand="Japanese" norm="ja">Jap</lang> fr <lang expand="English"
                         norm="en">Eng</lang>)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <xr>
                <ref type="entry" target="#QV.bull">*bull dyke</ref>
+               <pc>;</pc>
             </xr>
-            <pc>;</pc>
+
             <entry xml:id="QV.bigdiesel" xml:lang="en">
                <form type="lemma"><orth expand="big diesel"> big diesel </orth><form type="variant"
                         ><orth expand="big diesel dyke">[dyke]</orth></form></form>
                <sense xml:id="QV.bigdiesel.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.cat" xml:lang="en">
                <form type="lemma"><orth>cat</orth></form>
                <sense xml:id="QV.cat.1">
@@ -1954,23 +1967,24 @@
                   <pc>,</pc>
                   <etym> fr black sl cat = a man</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.collar-and-tie" xml:lang="en">
                <form type="lemma"><orth>collar-and-tie</orth></form>
                <sense xml:id="QV.collar-and-tie.1">
                   <pc>(</pc>
                   <usg type="time">'40s</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.dagger" xml:lang="en">
                <form type="lemma"><orth>dagger</orth></form>
                <sense xml:id="QV.dagger.1">
                   <etym> (cf sl dagger = cock)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.dandysette" xml:lang="en">
                <form type="lemma"><orth>dandysette</orth></form>
                <sense xml:id="QV.dandysette.1">
@@ -1986,8 +2000,8 @@
                         ball"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.derrick" xml:lang="en">
                <form type="lemma"><orth>derrick</orth></form>
                <sense xml:id="QV.derrick.1">
@@ -2000,8 +2014,8 @@
                   <pc>:</pc>
                   <def> lesbian with a masculine face</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.diesel" xml:lang="en">
                <form type="lemma"><orth expand="diesel">diesel </orth><form type="variant"><orth
                         expand="diesel dyke">[dyke]</orth></form></form>
@@ -2012,8 +2026,8 @@
                         you do"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.2dike" xml:lang="en">
                <form type="lemma"><orth>dike</orth></form>
                <sense xml:id="QV.2dike.1">
@@ -2022,15 +2036,16 @@
                      <quote>"Man, is she heated up—she's a leaky dike."</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.Dutchgirl" xml:lang="en">
                <form type="lemma"><orth>Dutch girl</orth></form>
                <sense xml:id="QV.Dutchgirl.1">
                   <etym>(play on words relating dike with the dikes of Holland)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.fellow" xml:lang="en">
                <form type="lemma"><orth>fellow</orth></form>
                <sense xml:id="QV.fellow.1">
@@ -2042,16 +2057,16 @@
                         that falsetto is real"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.gal-officer" xml:lang="en">
                <form type="lemma"><orth>gal-officer</orth></form>
                <sense xml:id="QV.gal-officer.1">
                   <pc> (</pc>
                   <usg type="frequency">dated</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.girlkisser" xml:lang="en">
                <form type="lemma"><orth>girl kisser</orth></form>
                <sense xml:id="QV.girlkisser.1">
@@ -2061,32 +2076,31 @@
                         punch line?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.goudou" xml:lang="en">
                <form type="lemma"><orth>goudou</orth></form>
                <sense xml:id="QV.goudou.1">
                   <etym>fr <lang expand="French" norm="fr">Fr</lang> argot</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.gougnotte" xml:lang="en">
                <form type="lemma"><orth>gougnotte</orth>
                   <pc>(</pc><pron>goon-yot</pron><pc>,</pc></form>
                <sense xml:id="QV.gougnotte.1">
                   <etym>fr <lang expand="French" norm="fr">Fr</lang> argot</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.grousse" xml:lang="en">
                <form type="lemma"><orth>grousse</orth>
                   <pc>(</pc><pron>groos</pron><pc>,</pc></form>
                <sense xml:id="QV.grousse.1">
                   <etym>fr <lang expand="French" norm="fr">Fr</lang> argot</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
             <entry xml:id="QV.he-she" xml:lang="en">
                <form type="lemma"><orth>he-she</orth></form>
                <sense xml:id="QV.he-she.1">
@@ -2105,8 +2119,8 @@
                         nag now"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.jasper" xml:lang="en">
                <form type="lemma"><orth>jasper</orth></form>
                <sense xml:id="QV.jasper.1">
@@ -2119,8 +2133,8 @@
                      <quote>"Go ask the precious jasper in the bermudas what time it is"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.jota" xml:lang="en">
                <form type="lemma"><orth>jota</orth><pron>kho'- ta</pron></form>
                <pc>(</pc>
@@ -2128,8 +2142,8 @@
                <sense xml:id="QV.jota.1">
                   <etym><lang>Mex</lang></etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.king" xml:lang="en">
                <form type="lemma"><orth>king</orth><form type="variant"><orth expand="king stud"
                         >[stud]</orth></form></form>
@@ -2138,8 +2152,8 @@
                   <usg type="socioCultural">les sl</usg>
                   <def> = lesbian potentate</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.lady-lover" xml:lang="en">
                <form type="lemma"><orth>lady-lover</orth></form>
                <sense xml:id="QV.lady-lover.1">
@@ -2148,8 +2162,8 @@
                      <quote>"Mirror, mirror, omit the clutter—who's the baddest lady-lover?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.lasser" xml:lang="en">
                <form type="lemma"><orth>lasser</orth></form>
                <sense xml:id="QV.lasser.1">
@@ -2158,8 +2172,8 @@
                   <pc>,</pc>
                   <etym>fr dial lass = girl + suffix -er</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.lesbo" xml:lang="en">
                <form type="lemma"><orth>lesbo</orth></form>
                <sense xml:id="QV.lesbo.1">
@@ -2174,8 +2188,8 @@
                      <quote>"It looks like the Les Bo' Game!"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.major" xml:lang="en">
                <form type="lemma"><orth>major</orth></form>
                <sense xml:id="QV.major.1">
@@ -2187,8 +2201,8 @@
                   <etym>fr Phys. Ed. major</etym>
                   <def> = woman excelling in sports</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.mal-flor" xml:lang="en">
                <form type="lemma"><orth>mal-flor</orth>
                   <pc>(</pc><pron>mal-flor'</pron></form>
@@ -2221,17 +2235,16 @@
                      <quote>"What say, manny: how's the broads been treatin it?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.mantee" xml:lang="en">
                <form type="lemma"><orth>mantee</orth></form>
                <sense xml:id="QV.mantee.1">
                   <pc> (</pc>
                   <usg type="time">'40s</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>)</pc>
-            <pc>;</pc>
             <entry xml:id="QV.marimacho" xml:lang="en">
                <form type="lemma"><orth>marimacho</orth> (<pron>ma-re-ma-cho</pron></form>
                <sense xml:id="QV.marimacho.1">
@@ -2241,8 +2254,8 @@
                   <pc>;</pc>
                   <def> insensitive title for a tomboy</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.mason" xml:lang="en">
                <form type="lemma"><orth>mason</orth></form>
                <sense xml:id="QV.mason.1">
@@ -2255,8 +2268,8 @@
                   <pc>,</pc>
                   <def> because she lays bricks = homely gals</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.no-nuts" xml:lang="en">
                <form type="lemma"><orth>no-nuts</orth></form>
                <sense xml:id="QV.no-nuts.1">
@@ -2271,8 +2284,8 @@
                      <quote>"What'll it be tonight, No-nuts, the usual Scotch on the rocks?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.pansywithoutastem" xml:lang="en">
                <form type="lemma"><orth>pansy without a stem</orth></form>
                <sense xml:id="QV.pansywithoutastem.1">
@@ -2291,16 +2304,16 @@
                   <etym>fr Pach pantas = pants // <lang expand="Spanish" norm="es">Sp</lang>
                      pantalones = pants: a pants'-wearing tomboy)</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>;</pc>
             <entry xml:id="QV.penis-envyqueen" xml:lang="en">
                <form type="lemma"><orth>penis-envy queen</orth></form>
                <sense xml:id="QV.penis-envyqueen.1">
                   <pc>(</pc>
                   <usg type="socioCultural">camp</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.polone-homi" xml:lang="en">
                <form type="lemma"><orth>polone-homi</orth>
                   <pc>(</pc><pron>po-lo-ne-ho-me</pron></form>
@@ -2311,16 +2324,16 @@
                         >Sp</lang> pollo = chicken; cf sl pullet = young lassie &amp; It uomo =
                      man</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.poppa" xml:lang="en">
                <form type="lemma"><orth>poppa</orth></form>
                <sense xml:id="QV.poppa.1">
                   <pc> (</pc>
                   <usg type="socioCultural">les sl</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.pot" xml:lang="en">
                <form type="lemma"><orth>pot</orth></form>
                <sense xml:id="QV.pot.1">
@@ -2329,8 +2342,8 @@
                      which translates into English as "there is a lid for every pot!" Figure that
                      out!</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.queerbird" xml:lang="en">
                <form type="lemma"><orth>queer bird</orth></form>
                <sense xml:id="QV.queerbird.1">
@@ -2339,8 +2352,8 @@
                   <usg type="socioCultural"> hetero sl</usg>
                   <etym> fr sl queer = homosexual + bird = woman</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.queerqueen" xml:lang="en">
                <form type="lemma"><orth>queer queen</orth></form>
                <sense xml:id="QV.queerqueen.1">
@@ -2354,31 +2367,31 @@
                         queen, as in Alice"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.Sapphist" xml:lang="en">
                <form type="lemma"><orth>Sapphist</orth></form>
                <sense xml:id="QV.Sapphist.1">
                   <etym>(fr Sappho, Greek poetess and lover of women</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.she-male" xml:lang="en">
                <form type="lemma"><orth>she-male</orth></form>
                <sense xml:id="QV.she-male.1">
                   <pc> (</pc>
                   <usg type="socioCultural">hetero sl</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>); </pc>
             <entry xml:id="QV.she-man" xml:lang="en">
                <form type="lemma"><orth>she-man</orth></form>
                <sense xml:id="QV.she-man.1">
                   <pc> (</pc>
                   <usg type="socioCultural">hetero sl</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.shesexual" xml:lang="en">
                <form type="lemma"><orth>shesexual</orth></form>
                <sense xml:id="QV.shesexual.1">
@@ -2387,8 +2400,8 @@
                      <quote>"That shesexual has a gut as large as the Ponderosa Spread"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>); </pc>
             <entry xml:id="QV.shim" xml:lang="en">
                <form type="lemma"><orth>shim</orth></form>
                <sense xml:id="QV.shim.1">
@@ -2399,8 +2412,8 @@
                   <pc>):</pc>
                   <def> blending of the two pronouns she + him</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.slacks" xml:lang="en">
                <form type="lemma"><orth>slacks</orth></form>
                <sense xml:id="QV.slacks.1">
@@ -2411,16 +2424,17 @@
                   <pc>, </pc>
                   <usg type="time">'40s</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>); </pc>
             <entry xml:id="QV.Tom" xml:lang="en">
                <form type="lemma"><orth>Tom</orth></form>
                <sense xml:id="QV.Tom.1">
                   <pc> (</pc>
                   <usg type="socioCultural">les sl</usg>
                </sense>
+               <pc>), </pc>
             </entry>
-            <pc>), </pc>
+
             <entry xml:id="QV.topsergeant" xml:lang="en">
                <form type="lemma"><orth>top sergeant</orth></form>
                <sense xml:id="QV.topsergeant.1">
@@ -2432,8 +2446,8 @@
                         privates"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.tortillera" xml:lang="en">
                <form type="lemma"><orth>tortillera</orth><pc>(</pc><pron>tor-te-
                   yã'-ra</pron></form>
@@ -2442,8 +2456,8 @@
                   <usg type="geographic">Mex</usg>
                   <def> = tortilla maker</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.truckdyke" xml:lang="en">
                <form type="lemma"><orth>truck dyke</orth></form>
                <sense xml:id="QV.truckdyke.1">
@@ -2460,8 +2474,8 @@
                   <pc>:</pc>
                   <def> because they're not known as fruits</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.vot" xml:lang="en">
                <form type="lemma"><orth>vot</orth></form>
                <sense xml:id="QV.vot.1">
@@ -2475,8 +2489,8 @@
                      <quote>"What happened to the vot's twelve-inch chest expansion?"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.vrille" xml:lang="en">
                <form type="lemma"><orth>vrille</orth>
                   <pc>(</pc><pron>vrel</pron></form>
@@ -2486,16 +2500,16 @@
                      virile; but cf <lang expand="French" norm="fr">Fr</lang> vrille = gimlet or
                      vineyard tendril</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.wolf" xml:lang="en">
                <form type="lemma"><orth>wolf</orth></form>
                <sense xml:id="QV.wolf.1">
                   <pc>(</pc>
                   <def> = vot</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
             <entry xml:id="QV.woman-lover" xml:lang="en">
                <form type="lemma"><orth>woman-lover</orth></form>
                <sense xml:id="QV.woman-lover.1">
@@ -2507,8 +2521,9 @@
                         canyon."</quote>
                   </cit>
                </sense>
+               <pc>) </pc>
             </entry>
-            <pc>) </pc>
+
             <entry xml:id="QV.dykecity" xml:lang="en">
                <form type="lemma"><orth expand="dyke city">-city</orth></form>
                <sense xml:id="QV.dykecity.1">
@@ -2635,19 +2650,19 @@
                      <lbl>see</lbl>
                      <ref type="entry" target="#QV.daddle"> *daddle</ref>
                   </xr>
-                  </sense>
-                  <sense xml:id="QV.dyking.2">
-                     <lbl>2.</lbl>
-                     <def>used of two homosexuals who rub against each other's oiled body</def>
-                     <pc>,</pc>
-                  </sense>
-                  <lbl>also</lbl>
-                  <entry xml:id="QV.dykingit" xml:lang="en">
-                     <form type="lemma"><orth>dyking it</orth></form>
-                     <sense xml:id="QV.dykingit.1"/>
-                  </entry>
-                  <pc>.</pc>
-               
+               </sense>
+               <sense xml:id="QV.dyking.2">
+                  <lbl>2.</lbl>
+                  <def>used of two homosexuals who rub against each other's oiled body</def>
+                  <pc>,</pc>
+               </sense>
+               <lbl>also</lbl>
+               <entry xml:id="QV.dykingit" xml:lang="en">
+                  <form type="lemma"><orth>dyking it</orth></form>
+                  <sense xml:id="QV.dykingit.1"/>
+               </entry>
+               <pc>.</pc>
+
             </entry>
             <lbl>Related terms:</lbl>
             <entry xml:id="QV.dickybroad" xml:lang="en">
@@ -2762,24 +2777,24 @@
                   <usg type="hint">adj</usg>
                   <def> found primarily in the two terms:</def>
                </sense>
-                  <entry xml:id="QV.manteevoice" xml:lang="en">
-                     <form type="lemma"><xr>
-                           <ref type="entry" target="#QV.manteevoice">mantee voice</ref>
-                        </xr></form>
-                     <sense xml:id="QV.manteevoice.1">
-                        <def> (a deep bass)</def>
-                     </sense>
-                  </entry>
-                  <lbl>and</lbl>
-                  <entry xml:id="QV.manteewalk" xml:lang="en">
-                     <form type="lemma"><xr>
-                           <ref type="entry" target="#QV.manteewalk">mantee walk</ref>
-                        </xr></form>
-                     <sense xml:id="QV.manteewalk.1">
-                        <def> (swagger).</def>
-                     </sense>
-                  </entry>
-               
+               <entry xml:id="QV.manteevoice" xml:lang="en">
+                  <form type="lemma"><xr>
+                        <ref type="entry" target="#QV.manteevoice">mantee voice</ref>
+                     </xr></form>
+                  <sense xml:id="QV.manteevoice.1">
+                     <def> (a deep bass)</def>
+                  </sense>
+               </entry>
+               <lbl>and</lbl>
+               <entry xml:id="QV.manteewalk" xml:lang="en">
+                  <form type="lemma"><xr>
+                        <ref type="entry" target="#QV.manteewalk">mantee walk</ref>
+                     </xr></form>
+                  <sense xml:id="QV.manteewalk.1">
+                     <def> (swagger).</def>
+                  </sense>
+               </entry>
+
             </entry>
             <entry xml:id="QV.pick-uptruck" xml:lang="en">
                <form type="lemma"><orth>pick-up truck</orth></form>
@@ -2841,32 +2856,39 @@
             <lbl> Also see</lbl>
             <xr>
                <ref type="entry" target="#QV.babybutch">*baby butch</ref>
+               <pc>,</pc>
             </xr>
-            <pc>,</pc>
+
             <xr>
                <ref type="entry" target="#QV.butch">*butch</ref>
+               <pc>, </pc>
             </xr>
-            <pc>, </pc>
+
             <xr>
                <ref type="entry" target="#QV.dragbutch">*drag butch</ref>
+               <pc>, </pc>
             </xr>
-            <pc>, </pc>
+
             <xr>
                <ref type="entry" target="#QV.lesbian">*lesbian</ref>
+               <pc>, </pc>
             </xr>
-            <pc>, </pc>
+
             <xr>
                <ref type="entry" target="#QV.mollydyke">*molly dyke</ref>
+               <pc>, </pc>
             </xr>
-            <pc>, </pc>
+
             <xr>
                <ref type="entry" target="#QV.muffdiver">*muff-diver</ref>
+               <pc>, </pc>
             </xr>
-            <pc>, </pc>
+
             <xr>
                <ref type="entry" target="#QV.vandyke">*van dyke</ref>
+               <pc>.</pc>
             </xr>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.eh-eh" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>eh-eh</orth>
@@ -2901,8 +2923,9 @@
             <entry xml:id="QV.icky" xml:lang="en">
                <form type="lemma"><orth>icky</orth></form>
                <sense xml:id="QV.icky.1"/>
+               <pc>,</pc>
             </entry>
-            <pc>,</pc>
+
             <entry xml:id="QV.fishy" xml:lang="en">
                <form type="lemma"><orth>fishy</orth></form>
                <sense xml:id="QV.fishy.1"/>
@@ -2911,7 +2934,7 @@
          <entry xml:id="QV.enforcer" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>enforcer</orth></form>
             <sense xml:id="QV.enforcer.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <pc>(</pc>
                <usg type="domain">fr pros sl</usg>
                <pc>)</pc>
@@ -2931,11 +2954,12 @@
                   for feminine</etym>
                <pc>)</pc>
                <lbl>1.</lbl>
-               <def> passive homosexual.</def> <lbl>Syn:</lbl>
-                  <xr>
-                     <ref type="entry">*nelly</ref>
-                  </xr>
-               
+               <def> passive homosexual.</def>
+               <lbl>Syn:</lbl>
+               <xr>
+                  <ref type="entry">*nelly</ref>
+               </xr>
+
             </sense>
             <sense xml:id="QV.femme.2">
                <lbl>2.</lbl>
@@ -2986,8 +3010,9 @@
             <entry xml:id="QV.fingerer" xml:lang="en">
                <form type="lemma"><orth>fingerer</orth></form>
                <sense xml:id="QV.fingerer.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
             <entry xml:id="QV.fingerfuck" xml:lang="en">
                <form type="lemma"><orth expand="finger fuck">-fuck</orth></form>
                <sense xml:id="QV.fingerfuck.1">
@@ -3052,8 +3077,8 @@
                <pc>)</pc>
                <def>elaborate mannerisms</def>
                <cit type="example">
-                  <quote>“I can't stand that big dyke; she's always makin’ with that butch fluff
-                     like openin’ doors for me an’ lightin’ my cigarillos"</quote>
+                  <quote>“I can't stand that big dyke; she's always makin' with that butch fluff
+                     like openin' doors for me an' lightin' my cigarillos"</quote>
                </cit>
             </sense>
             <sense xml:id="QV.fluff.3">
@@ -3069,7 +3094,7 @@
                <pc>(</pc>
                <usg type="socioCultural">camp</usg>
                <pc>)</pc>
-               <def>reference to one’s own sex organs, especially the ass </def>
+               <def>reference to one's own sex organs, especially the ass </def>
                <cit type="example">
                   <quote>“You don't have to tell me how many inches you got: fluff knows, she's my
                      radar you see” </quote>
@@ -3112,8 +3137,10 @@
                <form type="variant"><orth expand="futy">[futy]</orth></form>
             </form>
             <sense xml:id="QV.fudy.1">
-               <usg type="frequency">(dated)</usg>
-               <def> <lbl>same as</lbl> <xr>
+               <pc>(</pc><usg type="frequency">dated</usg><pc>)</pc>
+               <def>
+                  <lbl>same as</lbl>
+                  <xr>
                      <ref type="entry" target="#QV.cunt">*cunt</ref>
                   </xr> in all senses. </def>
             </sense>
@@ -3193,8 +3220,9 @@
             <entry xml:id="QV.jolly" xml:lang="en">
                <form type="lemma"><orth>jolly</orth></form>
                <sense xml:id="QV.jolly.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
 
             <entry xml:id="QV.gayabandon" xml:lang="en">
                <form type="lemma"><orth expand="gay abandon">-abandon</orth></form>
@@ -3291,7 +3319,7 @@
                <entry xml:id="QV.queenschurch" xml:lang="en">
                   <form type="lemma"><orth>queens' church</orth></form>
                   <sense xml:id="QV.queenschurch.1">
-                     <usg type="attitude">(pej)</usg>
+                     <pc>(</pc><usg type="attitude">pej</usg><pc>)</pc>
                   </sense>
                </entry>
                <pc>;</pc>
@@ -3313,7 +3341,7 @@
                <entry xml:id="QV.turkeyclub" xml:lang="en">
                   <form type="lemma"><orth>turkey club</orth></form>
                   <sense xml:id="QV.turkeyclub.1">
-                     <usg type="socioCultural">(camp)</usg>
+                     <pc>(</pc><usg type="socioCultural">camp</usg><pc>)</pc>
                   </sense>
                </entry>
 
@@ -3387,8 +3415,7 @@
                      <pc>,</pc>
                      <usg type="time">mid '60s</usg>
                      <pc>,</pc>
-                     <usg type="socioCultural">used by those who fancy themselves “in” with the
-                        local deviates</usg>
+                     <usg type="socioCultural">used by those who fancy themselves “in” with the local deviates</usg>
                      <pc>:</pc>
                      <cit type="example">
                         <quote>“Knew this blade once—wonder what ever happened to 'im—maybe
@@ -3453,14 +3480,14 @@
                <form type="lemma"><orth expand="gay chick">gay chick</orth><form type="variant"
                         ><orth expand="gay woman">[-woman]</orth></form></form>
                <sense xml:id="QV.gaychick.1">
-                  <usg type="socioCultural" expand="lesbian"> </usg>
+                  
                   <def> a lesbian</def>
                </sense>
                <lbl>lbl</lbl>
                <entry xml:id="QV.madivinaise" xml:lang="en">
                   <form type="lemma"><orth>madivinaise</orth></form>
                   <sense xml:id="QV.madivinaise.1">
-                     <etym> (ma-de’-vi-naz, <lang expand="Hatian Creole" norm="ht">Haitian
+                     <etym> (ma-de'-vi-naz, <lang expand="Hatian Creole" norm="ht">Haitian
                            Creole</lang> = my divine one:</etym>
                      <def> actually, a voodoo priestess who is a lesbian</def>
                   </sense>
@@ -3506,7 +3533,7 @@
                   <def> homosexual who robs his partners </def>
                   <cit type="example">
                      <quote>“That LA is just crawling with gay dirt—they'll pull down your panties,
-                        suck you off an’ pick your pocket all in one blow.”</quote>
+                        suck you off an' pick your pocket all in one blow.”</quote>
                   </cit>
                </sense>
             </entry>
@@ -3745,14 +3772,15 @@
                   <pc>)</pc>
                   <def> a lesbian</def>
                </sense>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.harddaddy" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>hard daddy</orth></form>
             <sense xml:id="QV.harddaddy.1">
                <pc>(</pc>
-               
+
                <usg type="socioCultural">women's prison sl</usg>
                <pc>)</pc>
                <def> the lesbian <xr>
@@ -3801,55 +3829,60 @@
                   called Androgyni and were looked upon as monsters, but at the present day they are
                   employed for sexual purposes."</etym>
             </sense>
-               <lbl>Syn: </lbl>
-               <xr>
-                  <ref type="entry" target="#QV.dyke">*dyke</ref>
-               </xr>
+            <lbl>Syn: </lbl>
+            <xr>
+               <ref type="entry" target="#QV.dyke">*dyke</ref>
                <pc>;</pc>
-               <entry xml:id="QV.hermafrodita" xml:lang="en">
-                  <form type="lemma"><orth>hermafrodita</orth>
-                     <pron>(ar-maf-ro-de’-ta,</pron></form>
-                  <sense xml:id="QV.hermafrodita.1">
-                     <etym>fr <lang expand="Spanish" norm="es">Sp</lang></etym>
-                  </sense>
-               </entry>
+            </xr>
+
+            <entry xml:id="QV.hermafrodita" xml:lang="en">
+               <form type="lemma"><orth>hermafrodita</orth>
+                  <pron>(ar-maf-ro-de'-ta,</pron></form>
+               <sense xml:id="QV.hermafrodita.1">
+                  <etym>fr <lang expand="Spanish" norm="es">Sp</lang></etym>
+               </sense>
                <pc>);</pc>
-               <entry xml:id="QV.hermaphy" xml:lang="en">
-                  <form type="lemma"><orth>hermaphy</orth></form>
-                  <sense xml:id="QV.hermaphy.1"/>
-               </entry>
+            </entry>
+            <entry xml:id="QV.hermaphy" xml:lang="en">
+               <form type="lemma"><orth>hermaphy</orth></form>
+               <sense xml:id="QV.hermaphy.1"/>
                <pc>;</pc>
-               <entry xml:id="QV.moff" xml:lang="en">
-                  <form type="lemma"><orth>moff</orth></form>
-                  <sense xml:id="QV.moff.1"/>
-               </entry>
+            </entry>
+
+            <entry xml:id="QV.moff" xml:lang="en">
+               <form type="lemma"><orth>moff</orth></form>
+               <sense xml:id="QV.moff.1"/>
                <pc>;</pc>
-               <entry xml:id="QV.morph" xml:lang="en">
-                  <form type="lemma"><orth>morph</orth></form>
-                  <sense xml:id="QV.morph.1">
-                     <pc>(</pc>
-                     <cit type="example">
-                        <quote>"Know how a morph pees? Out of a mud flap!"</quote>
-                     </cit>
-                  </sense>
-               </entry>
+            </entry>
+
+            <entry xml:id="QV.morph" xml:lang="en">
+               <form type="lemma"><orth>morph</orth></form>
+               <sense xml:id="QV.morph.1">
+                  <pc>(</pc>
+                  <cit type="example">
+                     <quote>"Know how a morph pees? Out of a mud flap!"</quote>
+                  </cit>
+               </sense>
                <pc>);</pc>
-               <entry xml:id="QV.morphdite" xml:lang="en">
-                  <form type="lemma"><orth>morphdite</orth></form>
-                  <sense xml:id="QV.morphdite.1"/>
-               </entry>
+            </entry>
+            <entry xml:id="QV.morphdite" xml:lang="en">
+               <form type="lemma"><orth>morphdite</orth></form>
+               <sense xml:id="QV.morphdite.1"/>
                <pc>;</pc>
-               <entry xml:id="QV.muffie" xml:lang="en">
-                  <form type="lemma"><orth>muffie</orth></form>
-                  <sense xml:id="QV.muffie.1"/>
-               </entry>
+            </entry>
+
+            <entry xml:id="QV.muffie" xml:lang="en">
+               <form type="lemma"><orth>muffie</orth></form>
+               <sense xml:id="QV.muffie.1"/>
                <pc>.</pc>
-            
+            </entry>
+
+
          </entry>
          <entry xml:id="QV.inslacks" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>in slacks</orth></form>
             <sense xml:id="QV.inslacks.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <pc>(</pc>
                <usg type="frequency">obs</usg>
                <pc>,</pc>
@@ -3872,7 +3905,7 @@
                <usg type="time">'70</usg>
                <pc>)</pc>
                <def> the woman in us all, but especially the feminine qualities in men</def>
-               <usg type="socioCultural" expand="lesbian"/>
+              
                <cit type="example">
                   <quote>“Faggot-beaters are repressed fairies who don't give in to their
                      Jane.”</quote>
@@ -3893,8 +3926,9 @@
             <entry xml:id="QV.MissThing" xml:lang="en">
                <form type="lemma"><orth>Miss Thing</orth></form>
                <sense xml:id="QV.MissThing.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
             <lbl>Ant:</lbl>
             <entry xml:id="QV.Sam" xml:lang="en">
                <form type="lemma"><orth>Sam</orth></form>
@@ -3902,8 +3936,9 @@
                   <pc>(</pc>
                   <def> the masculine nature in us all, especially in lesbians</def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
          </entry>
          <entry xml:id="QV.Janey" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>Janey</orth></form>
@@ -3916,8 +3951,9 @@
                <usg type="time">late '60s</usg>
                <pc>)</pc>
                <def> the vagina</def>
+               <pc>.</pc>
             </sense>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.John" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>John</orth></form>
@@ -3957,8 +3993,9 @@
                   <pc>,</pc>
                   <etym>fr rhyming sl steamer tug = mug = sap</etym>
                </sense>
+               <pc>)</pc>
             </entry>
-            <pc>)</pc>
+
             <sense xml:id="QV.John.3">
                <lbl>3.</lbl>
                <pc>(</pc>
@@ -3971,13 +4008,14 @@
             <lbl>Syn:</lbl>
             <xr>
                <ref type="entry" target="#QV.dykedaddy">*dyke daddy</ref>
+               <pc>.</pc>
             </xr>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.kissingfish" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>kissing fish</orth></form>
             <sense xml:id="QV.kissingfish.1">
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <pc>(</pc>
                <etym>fr novel by the same name by <name>Monique Lange</name></etym>
                <pc>)</pc>
@@ -3986,8 +4024,9 @@
             <xr>
                <lbl>Also see </lbl>
                <ref type="entry">*fish</ref>
+               <pc>.</pc>
             </xr>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.lesbian" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>lesbian</orth></form>
@@ -4019,28 +4058,33 @@
             <entry xml:id="QV.les" xml:lang="en">
                <form type="lemma"><orth>les</orth></form>
                <sense xml:id="QV.les.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.les-be-friends" xml:lang="en">
                <form type="lemma"><orth>les-be-friends</orth></form>
                <sense xml:id="QV.les-be-friends.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lesbianka" xml:lang="en">
                <form type="lemma"><orth>lesbianka</orth></form>
                <sense xml:id="QV.lesbianka.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.2lesbo" xml:lang="en">
                <form type="lemma"><orth>lesbo</orth></form>
                <sense xml:id="QV.2lesbo.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lesby" xml:lang="en">
                <form type="lemma"><orth>lesby</orth></form>
                <sense xml:id="QV.lesby.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lesgirls" xml:lang="en">
                <form type="lemma"><orth>les girls</orth></form>
                <sense xml:id="QV.lesgirls.1">
@@ -4049,50 +4093,58 @@
                   <pc>,</pc>
                   <etym>pun made upon Fr /es the + les- in lesbian)</etym>
                </sense>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.Leslie" xml:lang="en">
                <form type="lemma"><orth expand="Leslie">Leslie</orth>
                   <form type="variant"><orth expand="Leslie-Anne">[-Anne]</orth></form></form>
                <sense xml:id="QV.Leslie.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lessie" xml:lang="en">
                <form type="lemma"><orth>lessie</orth></form>
                <sense xml:id="QV.lessie.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.less-than-a-mans" xml:lang="en">
                <form type="lemma"><orth>less-than-a-man's</orth></form>
                <sense xml:id="QV.less-than-a-mans.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lezbo" xml:lang="en">
                <form type="lemma"><orth>lezbo</orth></form>
                <sense xml:id="QV.lezbo.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lezz" xml:lang="en">
                <form type="lemma"><orth>lezz</orth></form>
                <sense xml:id="QV.lezz.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lezzy" xml:lang="en">
                <form type="lemma"><orth>lezzy</orth></form>
                <sense xml:id="QV.lezzy.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lizzy" xml:lang="en">
                <form type="lemma"><orth>lizzy</orth></form>
                <sense xml:id="QV.lizzy.1"/>
             </entry>
             <lbl>; and,</lbl>
             <entry xml:id="QV.Thespian" xml:lang="en">
-               <usg type="hint">lisped, </usg>
+               <usg type="hint">lisped</usg><pc>,</pc>
                <form type="lemma"><orth>Thespian</orth></form>
                <sense xml:id="QV.Thespian.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
 
             <entry xml:id="QV.lesbianconverter" xml:lang="en">
                <form type="lemma"><orth>lesbian converter</orth></form>
@@ -4132,16 +4184,18 @@
             <entry xml:id="QV.lesbonia" xml:lang="en">
                <form type="lemma"><orth>lesbonia</orth></form>
                <sense xml:id="QV.lesbonia.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.lesboville" xml:lang="en">
                <form type="lemma"><orth>lesboville</orth></form>
                <sense xml:id="QV.lesboville.1">
                   <pc>(</pc>
                   <usg type="frequency">dated</usg>
                </sense>
+               <pc>.)</pc>
             </entry>
-            <pc>.)</pc>
+
          </entry>
 
 
@@ -4154,7 +4208,7 @@
             <entry xml:id="QV.lonewolf" xml:lang="en">
                <form type="lemma"><orth>lone wolf</orth></form>
                <sense xml:id="QV.lonewolf.1">
-                  <usg type="socioCultural" expand="lesbian"/>
+                  
                   <def> antisocial lesbian.</def>
                </sense>
             </entry>
@@ -4176,8 +4230,9 @@
                   <pc>,</pc>
                   <usg type="time">late '60s</usg>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
          </entry>
          <entry xml:id="QV.mollydyke" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>mollydyke</orth></form>
@@ -4219,18 +4274,21 @@
                      <quote>“Then there was the fairy lady who said 'Argyle it to me!'"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.filly" xml:lang="en">
                <form type="lemma"><orth>filly</orth></form>
                <sense xml:id="QV.filly.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.finechick" xml:lang="en">
                <form type="lemma"><orth>fine chick</orth></form>
                <sense xml:id="QV.finechick.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.2fluff" xml:lang="en">
                <form type="lemma"><orth>fluff</orth></form>
                <sense xml:id="QV.2fluff.1">
@@ -4240,43 +4298,49 @@
                         think that I'm a piece of stray fluff”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.mama" xml:lang="en">
                <form type="lemma"><orth>mama</orth></form>
                <sense xml:id="QV.mama.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.Marge" xml:lang="en">
                <form type="lemma"><orth>Marge</orth></form>
                <sense xml:id="QV.Marge.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.midge" xml:lang="en">
                <form type="lemma"><orth>midge</orth></form>
                <sense xml:id="QV.midge.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.pinky" xml:lang="en">
                <form type="lemma"><orth>pinky</orth></form>
                <sense xml:id="QV.pinky.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.skirts" xml:lang="en">
                <form type="lemma"><orth>skirts</orth></form>
                <sense xml:id="QV.skirts.1">
                   <pc> (</pc>
                   <usg type="frequency">obs</usg>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
             <lbl>Related term:</lbl>
             <entry xml:id="QV.hitthesheets" xml:lang="en">
                <form type="lemma"><orth>hit the sheets</orth></form>
                <sense xml:id="QV.hitthesheets.1">
                   <pc> (</pc>
-                  <pc/>
+
                   <usg type="socioCultural">les sl</usg>
                   <pc>)</pc>
                   <def> to be passive to the overtures of another woman.</def>
@@ -4301,23 +4365,27 @@
             <entry xml:id="QV.bushdinner" xml:lang="en">
                <form type="lemma"><orth>bush dinner</orth></form>
                <sense xml:id="QV.bushdinner.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.down" xml:lang="en">
                <form type="lemma"><orth>down</orth></form>
                <sense xml:id="QV.down.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.furburger" xml:lang="en">
                <form type="lemma"><orth>furburger</orth></form>
                <sense xml:id="QV.furburger.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.hairpie" xml:lang="en">
                <form type="lemma"><orth>hairpie</orth></form>
                <sense xml:id="QV.hairpie.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.knish-ka-bob" xml:lang="en">
                <form type="lemma"><orth>knish-ka-bob</orth></form>
                <sense xml:id="QV.knish-ka-bob.1">
@@ -4325,92 +4393,106 @@
                   <etym>fr <lang expand="Yiddish" norm="yi">Yid</lang> knish = dumpling =
                      cunt</etym>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.muffet" xml:lang="en">
                <form type="lemma"><orth>muffet</orth></form>
                <sense xml:id="QV.muffet.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
             <sense xml:id="QV.muff.2">
                <lbl>2.</lbl>
                <etym>(cf muffie fr <lang expand="Middle English" norm="enm">ME</lang> muflen = to
                   envelop something to protect it)</etym>
                <def> to tongue the clitoris and vulva.</def>
+               <pc>:</pc>
             </sense>
 
-            <pc>:</pc>
+
             <entry xml:id="QV.dive" xml:lang="en">
                <form type="lemma"><orth expand="dive">dive</orth>
                   <form type="variant"><orth expand="dive in the bushes">[in the
                      bushes]</orth></form></form>
                <sense xml:id="QV.dive.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.fallinlove" xml:lang="en">
                <form type="lemma"><orth>fall in love</orth></form>
                <sense xml:id="QV.fallinlove.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.goSouth" xml:lang="en">
                <form type="lemma"><orth>go South</orth></form>
                <sense xml:id="QV.goSouth.1">
                   <pc>(</pc>
                   <usg type="frequency">dated</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.gounderthehouse" xml:lang="en">
                <form type="lemma"><orth>go under the house</orth></form>
                <sense xml:id="QV.gounderthehouse.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.kisssomebodysdown" xml:lang="en">
                <form type="lemma"><orth>kiss somebody's down</orth></form>
                <sense xml:id="QV.kisssomebodysdown.1">
                   <pc>(</pc>
                   <cit type="example">
-                     <quote>"The picture showed Santa kissing Mrs. Claus’ down"</quote>
+                     <quote>"The picture showed Santa kissing Mrs. Claus' down"</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.lap" xml:lang="en">
                <form type="lemma"><orth>lap</orth></form>
                <sense xml:id="QV.lap.1">
                   <pc> (</pc>
                   <usg type="attitude">pej</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.2dive" xml:lang="en">
                <form type="lemma"><orth>dive</orth></form>
                <sense xml:id="QV.2dive.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.sixty-three" xml:lang="en">
                <form type="lemma"><orth>sixty-three</orth><form type="variant"><orth expand="63"
                         >[63]</orth></form></form>
                <sense xml:id="QV.sixty-three.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.sneezeinthecabbage" xml:lang="en">
                <form type="lemma"><orth>sneeze in the cabbage</orth></form>
                <sense xml:id="QV.sneezeinthecabbage.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.whistleinthedark" xml:lang="en">
                <form type="lemma"><orth>whistle in the dark</orth></form>
                <sense xml:id="QV.whistleinthedark.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.yodel" xml:lang="en">
                <form type="lemma"><orth expand="yodel">yodel</orth><form type="variant"><orth
                         expand="yodel in the canyon of love">[in the canyon of
                   love]</orth></form></form>
                <sense xml:id="QV.yodel.1"/>
+               <pc>.</pc>
             </entry>
-            <pc>.</pc>
+
             <lbl>Related Terms</lbl>
 
 
@@ -4427,8 +4509,9 @@
                            love]</orth></form></form>
                   <sense xml:id="QV.fallingheadoverheels.1"/>
                </entry>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
 
             <entry xml:id="QV.fifty-nining" xml:lang="en">
                <form type="lemma"><orth>fifty-nining</orth></form>
@@ -4440,8 +4523,9 @@
                         <ref type="entry">*sixty-nining</ref>
                      </xr> because women lack penises</def>
                </sense>
+               <pc>).</pc>
             </entry>
-            <pc>).</pc>
+
 
             <entry xml:id="QV.bumpersticker" xml:lang="en">
                <form type="lemma"><orth>bumper sticker</orth></form>
@@ -4468,8 +4552,9 @@
                   <form type="lemma"><orth>give work</orth></form>
                   <sense xml:id="QV.givework.1"/>
                </entry>
+               <lbl>.</lbl>
             </entry>
-            <lbl>.</lbl>
+
 
             <entry xml:id="QV.lawnmower" xml:lang="en">
                <form type="lemma"><orth>lawnmower</orth></form>
@@ -4525,7 +4610,7 @@
                      <pc> (</pc>
                      <usg type="attitude">pej</usg>
                      <pc>,</pc>
-                     <etym>fr sl growl = female’ pudend</etym>
+                     <etym>fr sl growl = female' pudend</etym>
                   </sense>
                </entry>
                <pc>);</pc>
@@ -4565,7 +4650,7 @@
                      <pc>:</pc>
                      <etym>fr vul sl lickbox = cunnilinctrice:</etym>
                      <cit type="example">
-                        <quote>“Her cunt’s too small—it can't hold its licker”</quote>
+                        <quote>“Her cunt's too small—it can't hold its licker”</quote>
                      </cit>
                   </sense>
                </entry>
@@ -4633,8 +4718,9 @@
             <entry xml:id="QV.cushionedsteel" xml:lang="en">
                <form type="lemma"><orth>cushioned steel</orth></form>
                <sense xml:id="QV.cushionedsteel.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.ironangel" xml:lang="en">
                <form type="lemma"><orth>iron angel</orth></form>
                <sense xml:id="QV.ironangel.1">
@@ -4642,8 +4728,9 @@
                   <def> "Hey, Regina, let's run down to Muscle Beach and watch the iron angels jerk
                      the bar- bells off"</def>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.muscle-gay" xml:lang="en">
                <form type="lemma"><orth expand="muscle gay">muscle-gay</orth><form type="variant"
                         ><orth expand="muscle lady">[lady]</orth></form></form>
@@ -4651,8 +4738,9 @@
                   <pc>(</pc>
                   <usg type="socioCultural">camp</usg>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.pieceofmuscle" xml:lang="en">
                <form type="lemma"><orth>piece of muscle</orth></form>
                <sense xml:id="QV.pieceofmuscle.1">
@@ -4661,8 +4749,9 @@
                      <quote>“Isn't that plece of muscle in the chestcakes mag?”</quote>
                   </cit>
                </sense>
+               <pc>);</pc>
             </entry>
-            <pc>);</pc>
+
             <entry xml:id="QV.toplesslesbian" xml:lang="en">
                <form type="lemma"><orth>topless lesbian</orth></form>
                <sense xml:id="QV.toplesslesbian.1">
@@ -4742,7 +4831,7 @@
          <entry xml:id="QV.Penelope" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>Penelope</orth></form>
             <sense xml:id="QV.Penelope.1">
-               <usg type="hint"> (voc)</usg>
+               <pc>(</pc><usg type="hint"> voc</usg><pc>)</pc>
                <def>nickname for one who pines away needlessly</def>
                <cit type="example">
                   <quote> “Poor Penelope! She's still waiting for that Les who went out ten years to
@@ -4772,32 +4861,35 @@
                <def> to faithfully reunite a former lover on the outside after having finished doing
                   penal time. The girl waiting on the outside is said to </def>
             </sense>
-               <entry xml:id="QV.runforherlover" xml:lang="en">
-                  <form type="lemma"><orth>run for her lover</orth></form>
-                  <sense xml:id="QV.runforherlover.1"/>
-               </entry>
+            <entry xml:id="QV.runforherlover" xml:lang="en">
+               <form type="lemma"><orth>run for her lover</orth></form>
+               <sense xml:id="QV.runforherlover.1"/>
                <pc>.</pc>
-            
+            </entry>
+
+
          </entry>
          <entry xml:id="QV.safo" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>safo</orth>
-               <pc>(</pc><pron>sa’-fo</pron></form>
+               <pc>(</pc><pron>sa'-fo</pron></form>
             <sense xml:id="QV.safo.1">
                <pc>,</pc>
                <etym>fr <lang expand="Spanish" norm="es">Sp</lang> = <name>Sappho</name> who
                   “lesbiated” during the seventh century</etym>
                <pc>)</pc>
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <def> lesbian</def>
+               <pc>.</pc>
             </sense>
-            <pc>.</pc>
+
 
             <lbl>Syn:</lbl>
             <entry xml:id="QV.sapphite" xml:lang="en">
                <form type="lemma"><orth>sapphite</orth></form>
                <sense xml:id="QV.sapphite.1"/>
+               <pc>;</pc>
             </entry>
-            <pc>;</pc>
+
             <entry xml:id="QV.sappho" xml:lang="en">
                <form type="lemma"><orth>sappho</orth></form>
                <sense xml:id="QV.sappho.1">
@@ -4806,9 +4898,10 @@
                      <quote>“Your sappho friend really made an impression here-she broke the chair
                         she sat on.”</quote>
                   </cit>
+                  <pc>)</pc>
                </sense>
             </entry>
-            <pc>)</pc>
+
          </entry>
          <entry xml:id="QV.2sil" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>sil</orth><form type="derivative">(short for
@@ -4860,10 +4953,10 @@
             <entry xml:id="QV.Yoursister" xml:lang="en">
                <form type="lemma"><orth>Your sister</orth></form>
                <sense xml:id="QV.Yoursister.1">
-                  <usg type="hint">(pron)</usg>
+                  <pc>(</pc><usg type="hint">pron</usg><pc>)</pc>
                   <def>oneself</def>
                   <cit type="example">
-                     <quote>“Your sisters fantastic voyage was behind 500 mics of "baby jesus’
+                     <quote>“Your sisters fantastic voyage was behind 500 mics of "baby jesus'
                         acid!”</quote>
                   </cit>
                </sense>
@@ -4915,7 +5008,7 @@
          <entry xml:id="QV.talking" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>talking</orth></form>
             <sense xml:id="QV.talking.1">
-               <usg type="socioCultural"> (les prison sl)</usg>
+               <pc>(</pc><usg type="socioCultural"> les prison sl</usg><pc>)</pc>
                <def> engaged in homosexual activity.</def>
             </sense>
          </entry>
@@ -4941,10 +5034,10 @@
                <def> lesbian attracted to large-breasted women.</def>
             </sense>
          </entry>
-         <entry xml:id="QV.tomboy" xml:lang="en" type="mainEntry" >
+         <entry xml:id="QV.tomboy" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>tomboy</orth></form>
             <sense xml:id="QV.tomboy.1">
-               <usg type="socioCultural" expand="lesbian"/>
+              
                <lbl>1. </lbl>
                <def> lesbian</def>
             </sense>
@@ -4969,7 +5062,7 @@
             </sense>
             <sense xml:id="QV.toosh.2">
                <lbl>2.</lbl>
-               <usg type="hint">(voc)</usg>
+               <pc>(</pc> <usg type="hint">voc</usg><pc>)</pc>
                <def>dearest</def>
                <pc>,</pc>
                <cit type="example">
@@ -4996,7 +5089,7 @@
                <pc>(</pc>
                <usg type="geographic">kwn Southwest</usg>
                <pc>,</pc>
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <usg type="time">mid-late '60s</usg>
                <pc>)</pc>
                <def> lesbian who makes it with a gay boy.</def>
@@ -5004,8 +5097,9 @@
             <lbl>Also see</lbl>
             <xr>
                <ref type="entry" target="#QV.butcherboy">*butcher boy</ref>
+               <pc>.</pc>
             </xr>
-            <pc>.</pc>
+
          </entry>
          <entry xml:id="QV.vandyke" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>van dyke</orth></form>
@@ -5032,7 +5126,7 @@
                <pc>,</pc>
                <usg type="time">'50s</usg>
                <pc>,</pc>
-               <usg type="socioCultural" expand="lesbian"/>
+               
                <etym>fr sl The Village = NYC's Greenwich Village, haven for the avant garde</etym>
                <pc>)</pc>
                <def> lesbian cocktail introduction party.</def>
