@@ -19,13 +19,16 @@
                <resp>Encoded by</resp>
                <name><forename>June</forename>
                   <surname>Murphy</surname></name>
+               <note>Part of a Masters Paper in the Digital Humanities department at the University
+                  College Cork.</note>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Straight Arrow Books</publisher>
             <pubPlace>San Francisco</pubPlace>
             <availability>
-               <p/>
+               <p>Text of second edition available at
+                  https://archive.org/details/gaytalkformerlye00rodg/</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -39,6 +42,34 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="socioCultural">
+               <category xml:id="socioCultural.blacksl">
+                  <catDesc>black sl</catDesc>
+               </category>
+               <category xml:id="socioCultural.camp">
+                  <catDesc>camp</catDesc>
+               </category>
+               <category xml:id="socioCultural.heterosl">
+                  <catDesc>hetero sl</catDesc>
+               </category>
+               <category xml:id="socioCultural.hip">
+                  <catDesc>hip</catDesc>
+               </category>
+               <category xml:id="socioCultural.lessl">
+                  <catDesc>les sl</catDesc>
+               </category>
+               <category xml:id="socioCultural.prison">
+                  <catDesc>prison</catDesc>
+               </category>
+               <category xml:id="socioCultural.SM">
+                  <catDesc>SM</catDesc>
+               </category>
+               <category xml:id="socioCultural.teensl">
+                  <catDesc>teen sl</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
          <classDecl>
             <taxonomy xml:id="geographic">
                <category xml:id="geographic.Midwest.USA">
@@ -169,8 +200,8 @@
                <sense xml:id="QV.dinkydyke.1">
 
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>.</pc>
                   <usg type="time" norm="post Stonewall">71-72</usg>
                   <pc>)</pc>
@@ -197,6 +228,7 @@
                <cit type="example">
                   <quote>"This mad dyke danced off her bar handles."</quote>
                </cit>
+
             </sense>
             <lbl>Syn:</lbl>
 
@@ -204,8 +236,7 @@
                <form type="lemma"><orth> fuck handles</orth></form>
                <sense xml:id="QV.fuckhandles.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn
-                     NYC</usg>
+                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn NYC</usg>
                   <pc>,</pc>
                   <usg type="time">late '60s</usg>
                   <pc>)</pc>
@@ -246,8 +277,8 @@
                <form type="lemma"><orth>flinking</orth></form>
                <sense xml:id="QV.flinking.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit
-                     gay sl</usg>
+                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit gay
+                     sl</usg>
                   <pc>).</pc>
                </sense>
             </entry>
@@ -417,8 +448,8 @@
                <form type="lemma"><orth>gray cat</orth></form>
                <sense xml:id="QV.graycat.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>,</pc>
                   <usg type="socioCultural" norm="hip">hip gay sl</usg>
                   <pc>,</pc>
@@ -439,8 +470,8 @@
                <form type="lemma"><orth>half bent</orth></form>
                <sense xml:id="QV.halfbent.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit
-                     gay sl</usg>
+                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit gay
+                     sl</usg>
                   <pc>)</pc>
                </sense>
                <pc>;</pc>
@@ -581,6 +612,29 @@
                <def> experience orgasm.</def>
             </sense>
          </entry>
+         <entry xml:id="QV.brother" xml:lang="en" type="mainEntry">
+           
+            <form type="lemma"><orth>brother</orth></form>
+            <sense xml:id="QV.brother.1">
+               <def>mannish lesbian who is befriended by blatant homosexuals</def>
+               <cit type="example">
+                  <quote>“Me ball with her? Don’t be silly, we’re brothers.”</quote>
+               </cit>
+            </sense>
+         </entry>
+         <entry xml:id="QV.BT" xml:lang="en" type="mainEntry">
+            <form type="lemma"><orth>BT</orth></form>
+            <sense xml:id="QV.BT.1">
+               <pc>(</pc>
+               <usg type="socioCultural" norm="les sl">les sl</usg>
+               <pc>)</pc>
+               <def>the initials stand for “bare titty”</def>
+               <cit type="example">
+                  <quote>“I don’t mind if my fluff runs around the house BT when I'm at home, but
+                     she better cover up when some of those wolves I know come over.”</quote>
+               </cit>
+            </sense>
+         </entry>
          <entry xml:id="QV.bull" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>bull</orth></form>
             <sense xml:id="QV.bull.1">
@@ -652,19 +706,6 @@
                </sense>
             </entry>
 
-         </entry>
-         <entry xml:id="QV.BT" xml:lang="en" type="mainEntry">
-            <form type="lemma"><orth>BT</orth></form>
-            <sense xml:id="QV.BT.1">
-               <pc>(</pc>
-               <usg type="socioCultural" norm="les sl">les sl</usg>
-               <pc>)</pc>
-               <def>the initials stand for “bare titty”</def>
-               <cit type="example">
-                  <quote>“I don’t mind if my fluff runs around the house BT when I'm at home, but
-                     she better cover up when some of those wolves I know come over.”</quote>
-               </cit>
-            </sense>
          </entry>
          <entry xml:id="QV.butch" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>butch</orth></form>
@@ -814,8 +855,8 @@
                <form type="lemma"><orth expand="butch as Kong">—as Kong</orth></form>
                <sense xml:id="QV.ButchAsKong.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit
-                     gay sl</usg>
+                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit gay
+                     sl</usg>
                   <pc>,</pc>
                   <etym>fr movie ape King Kong</etym>
                   <pc>)</pc>
@@ -901,8 +942,8 @@
                   <form type="lemma">clean [it] up</form>
                   <sense xml:id="QV.cleanitup.1">
                      <pc>(</pc>
-                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles"
-                        >kwn LA</usg>
+                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles">kwn
+                        LA</usg>
                      <pc>,</pc>
                      <usg type="time" norm="post Stonewall">'70</usg>
                      <pc>).</pc>
@@ -993,22 +1034,7 @@
             </entry>
          </entry>
 
-         <entry xml:id="QV.campwalk" xml:lang="en" type="relatedEntry" source="#QV.camp">
-            <!--originally in camp-->
-            <form type="lemma"><orth expand="camp walk">—walk</orth></form>
-            <sense xml:id="QV.campwalk.1">
-               <def> parodying the walk of the opposite sex. A camp walk of a boy would be an
-                  exaggerated swing of the hips, while a girl's would be an exaggeration of a manly
-                  stride.</def>
-            </sense>
-            <lbl>Syn:</lbl>
-            <xr>
-               <ref type="entry" target="#QV.manteewalk" expand="mantee walk">*mantee</ref>
-            </xr>
-            <xr>
-               <ref type="entry">[nance] walk.</ref>
-            </xr>
-         </entry>
+
 
 
          <entry xml:id="QV.closetcase" xml:lang="en" type="mainEntry">
@@ -1023,7 +1049,7 @@
                   resented by his fellow homosexuals for being a gay Uncle Tom—servile to the
                   heterosexual majority </def>
                <cit type="example">
-                  <quote>"There is bound to be at least one closet queen work- ing for the FBI in
+                  <quote>"There is bound to be at least one closet queen working for the FBI in
                      San Fran"</quote>
                </cit>
             </sense>
@@ -1054,8 +1080,8 @@
                <form type="lemma"><orth>cedarchest cissy</orth></form>
                <sense xml:id="QV.cedarchestcissy.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="Midwest" 
-                     corresp="#geographic.Midwest.USA">kwn Midwest</usg>
+                  <usg type="geographic" norm="Midwest" corresp="#geographic.Midwest.USA">kwn
+                     Midwest</usg>
                   <pc>,</pc>
                   <usg type="time">late 60s</usg>
                </sense>
@@ -1079,7 +1105,7 @@
                <form type="lemma"><orth>dry queen</orth></form>
                <sense xml:id="QV.dryqueen.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="Albuquerque"  corresp="#geographic.Albuquerque">kwn
+                  <usg type="geographic" norm="Albuquerque" corresp="#geographic.Albuquerque">kwn
                      Albuquerque</usg>
                   <pc>,</pc>
                   <usg type="time">late '60s</usg>
@@ -1180,7 +1206,7 @@
                <form type="lemma"><orth>womb broom</orth></form>
                <sense xml:id="QV.wombbroom.1">
                   <pc>(</pc>
-                  <etym>fr black sl</etym>
+                  <etym>fr <usg type="socioCultural" norm="black">black</usg> sl</etym>
                   <pc>).</pc>
 
                </sense>
@@ -1335,8 +1361,8 @@
                <form type="lemma"><orth>crunt</orth></form>
                <sense xml:id="QV.crunt.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>, </pc>
                   <usg type="time" norm="post Stonewall">late '60s-71</usg>
                </sense>
@@ -1350,8 +1376,8 @@
                   <form type="variant"><orth expand="kunker">[kunker]</orth></form></form>
                <sense xml:id="QV.cunker.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>, </pc>
                   <usg type="socioCultural" norm="black">black sl</usg>
                   <pc>: </pc>
@@ -1408,8 +1434,7 @@
                <form type="lemma"><orth>katoka</orth><pron>ka-to'-ka,</pron></form>
                <sense xml:id="QV.katoka.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="Hawaii" corresp="#geographic.Hawaii">Haw gay
-                     sl</usg>
+                  <usg type="geographic" norm="Hawaii" corresp="#geographic.Hawaii">Haw gay sl</usg>
                   <pc>: </pc>
                   <cit type="example">
                      <quote>"Did he marry her just for that katoka?"</quote>
@@ -1633,8 +1658,8 @@
                <form type="lemma"><orth>dry tuck</orth></form>
                <sense xml:id="QV.drytuck.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="California" corresp="#geographic.California.USA">
-                     kwn Calif</usg>
+                  <usg type="geographic" norm="California" corresp="#geographic.California.USA"> kwn
+                     Calif</usg>
                   <usg type="socioCultural" norm="prison">women's prison sl</usg>
                   <pc>)</pc>
                </sense>
@@ -1918,8 +1943,7 @@
             <form type="lemma"><orth>doll racket</orth></form>
             <sense xml:id="QV.dollracket.1">
                <pc>(</pc>
-               <usg type="geographic" norm="Illinois" 
-                  corresp="#geographic.Illinois">Ill</usg>
+               <usg type="geographic" norm="Illinois" corresp="#geographic.Illinois">Ill</usg>
 
                <usg type="socioCultural" norm="prison">women's prison sl</usg>
                <pc>,</pc>
@@ -2020,8 +2044,8 @@
                <form type="lemma"><orth>amy-john</orth></form>
                <sense xml:id="QV.amy-john.1">
                   <pc> (</pc>
-                  <usg type="geographic" norm="California" corresp="#geographic.California.USA"
-                     >kwn Calif</usg>
+                  <usg type="geographic" norm="California" corresp="#geographic.California.USA">kwn
+                     Calif</usg>
                   <pc>,</pc>
                   <usg type="time">late '50s</usg>
                   <pc>,</pc>
@@ -2065,15 +2089,15 @@
                <form type="lemma"><orth>cat</orth></form>
                <sense xml:id="QV.cat.1">
                   <pc> (</pc>
-                  <usg type="geographic" norm="California" corresp="#geographic.California.USA"
-                     >kwn Calif</usg>
+                  <usg type="geographic" norm="California" corresp="#geographic.California.USA">kwn
+                     Calif</usg>
                   <pc>,</pc>
-                  <usg type="domain" norm="prostitute slang">pros sl</usg>
+                  <usg type="domain" norm="prostitute slang" expand="prostitute slang">pros sl</usg>
                   <pc>,</pc>
 
                   <usg type="time" norm="pre 1950">'30s-'40s</usg>
                   <pc>,</pc>
-                  <etym> fr black sl cat = a man</etym>
+                  <etym> fr <usg type="socioCultural" norm="black">black</usg> sl cat = a man</etym>
                </sense>
                <pc>);</pc>
             </entry>
@@ -2237,8 +2261,7 @@
                <form type="lemma"><orth>jasper</orth></form>
                <sense xml:id="QV.jasper.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn
-                     NYC</usg>
+                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn NYC</usg>
                   <pc>,</pc>
                   <usg type="time">late '60s</usg>
                   <pc>:</pc>
@@ -2435,8 +2458,8 @@
                   <pc>(</pc><pron>po-lo-ne-ho-me</pron></form>
                <sense xml:id="QV.polone-homi.1">
                   <pc>,</pc>
-                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit
-                     gay sl</usg>
+                  <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit gay
+                     sl</usg>
                   <etym>fr <lang expand="Polari">Parlyaree</lang> // <lang expand="Italian"
                         norm="it">It</lang> pollone = sprout or // <lang expand="Spanish" norm="es"
                         >Sp</lang> pollo = chicken; cf sl pullet = young lassie &amp; It uomo =
@@ -2602,8 +2625,8 @@
                <form type="lemma"><orth>vot</orth></form>
                <sense xml:id="QV.vot.1">
                   <pc> (</pc>
-                  <usg type="geographic" norm="California" corresp="#geographic.California.USA"
-                     >kwn Calif</usg>
+                  <usg type="geographic" norm="California" corresp="#geographic.California.USA">kwn
+                     Calif</usg>
                   <usg type="socioCultural" norm="prison">women's prison sl</usg>
                   <pc>,</pc>
                   <etym>fr -vert in pervert</etym>
@@ -2812,8 +2835,7 @@
                <form type="lemma"><orth>dove</orth></form>
                <sense xml:id="QV.dove.1">
                   <pc> (</pc>
-                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn
-                     NYC</usg>
+                  <usg type="geographic" norm="NYC" corresp="#geographic.NewYorkCity">kwn NYC</usg>
                   <pc>,</pc>
                   <usg type="socioCultural" norm="les sl">les sl</usg>
                   <pc>,</pc>
@@ -2828,8 +2850,8 @@
                   <form type="lemma"><orth>grandpa</orth></form>
                   <sense xml:id="QV.grandpa.1">
                      <pc> (</pc>
-                     <usg type="geographic" norm="Illinois" 
-                        corresp="#geographic.Illinois">kwn Ill</usg>
+                     <usg type="geographic" norm="Illinois" corresp="#geographic.Illinois">kwn
+                        Ill</usg>
                      <pc>,</pc>
                      <usg type="socioCultural" norm="les sl">les sl</usg>
                   </sense>
@@ -2878,8 +2900,8 @@
                <form type="lemma"><orth>homo's lesbian</orth></form>
                <sense xml:id="QV.homoslesbian.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>,</pc>
                   <usg type="socioCultural" norm="les sl">les sl</usg>
                   <pc>,</pc>
@@ -2908,9 +2930,9 @@
                   <def> found primarily in the two terms:</def>
                </sense>
                <entry xml:id="QV.manteevoice" xml:lang="en" type="relatedEntry">
-                  <form type="lemma"><xr>
-                        <ref type="entry" target="#QV.manteevoice">mantee voice</ref>
-                     </xr></form>
+                  <xr>
+                     <ref type="entry" target="#QV.manteevoice">mantee voice</ref>
+                  </xr>
                   <sense xml:id="QV.manteevoice.1">
                      <pc>(</pc>
                      <def> a deep bass</def>
@@ -2919,9 +2941,9 @@
                </entry>
                <lbl>and</lbl>
                <entry xml:id="QV.manteewalk" xml:lang="en" type="relatedEntry">
-                  <form type="lemma"><xr>
-                        <ref type="entry" target="#QV.manteewalk">mantee walk</ref>
-                     </xr></form>
+                  <xr>
+                     <ref type="entry" target="#QV.manteewalk">mantee walk</ref>
+                  </xr>
                   <sense xml:id="QV.manteewalk.1">
                      <def> (swagger).</def>
                   </sense>
@@ -3212,6 +3234,7 @@
                <usg type="time">late '60s</usg>
                <pc>)</pc>
                <def>elaborate mannerisms</def>
+
                <cit type="example">
                   <quote>"I can't stand that big dyke; she's always makin' with that butch fluff
                      like openin' doors for me an' lightin' my cigarillos"</quote>
@@ -3268,7 +3291,7 @@
                </sense>
             </entry>
          </entry>
-         
+
          <entry xml:id="QV.fudy" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth expand="fudy">fudy</orth>
                <form type="variant"><orth expand="futy">[futy]</orth></form>
@@ -3379,8 +3402,8 @@
                </form>
                <sense xml:id="QV.gayasagoose.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
-                     >kwn SF</usg>
+                  <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco">kwn
+                     SF</usg>
                   <pc>,</pc>
                   <usg type="time"> late '60s</usg>
                   <pc>)</pc>
@@ -3417,8 +3440,8 @@
                   <form type="lemma"><orth>floater</orth></form>
                   <sense xml:id="QV.floater.1">
                      <pc>(</pc>
-                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles"
-                        >kwn LA</usg>
+                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles">kwn
+                        LA</usg>
                      <pc>,</pc>
                      <usg type="time">mid '60s</usg>
                      <pc>.</pc>
@@ -3503,8 +3526,8 @@
                   <form type="lemma"><orth>fluff parlor</orth></form>
                   <sense xml:id="QV.fluffparlor.1">
                      <pc>(</pc>
-                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles"
-                        >kwn LA</usg>
+                     <usg type="geographic" norm="Los Angeles" corresp="#geographic.LosAngeles">kwn
+                        LA</usg>
                      <usg type="socioCultural" norm="SM">SM sl</usg>
                      <pc>,</pc>
                      <usg type="time" norm="post Stonewall">'70</usg>
@@ -3528,8 +3551,8 @@
                   <form type="lemma"><orth>truck stop</orth></form>
                   <sense xml:id="QV.truckstop.1">
                      <pc>(</pc>
-                     <usg type="geographic" norm="San Francisco"
-                        corresp="#geographic.SanFrancisco">kwn SF</usg>
+                     <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
+                        >kwn SF</usg>
                      <pc>,</pc>
                      <usg type="socioCultural" norm="les sl">les sl</usg>
                      <pc>,</pc>
@@ -3555,8 +3578,8 @@
             </entry>
 
             <entry xml:id="QV.gayboy" xml:lang="en" type="relatedEntry">
-               <form type="lemma"><orth>gay boy</orth><form type="variant">[-cat, -guy, -lad,
-                     -man]</form></form>
+               <form type="lemma"><orth>gay boy</orth><form type="variant"><orth expand="gay cat">[-cat,</orth></form> <form type="variant"><orth expand="gay guy">-guy,</orth></form> <form type="variant"><orth expand="gay lad">-lad,</orth></form>
+                     <form type="variant"><orth expand="gay man">-man]</orth></form></form>
                <sense xml:id="QV.gayboy.1">
                   <def>the homosexual man, regardless of age. </def>
                </sense>
@@ -3565,8 +3588,8 @@
                   <form type="lemma"><orth>blade</orth></form>
                   <sense xml:id="QV.blade.1">
                      <pc>(</pc>
-                     <usg type="geographic" norm="San Diego" corresp="#geographic.SanDiego">kwn
-                        San Diego</usg>
+                     <usg type="geographic" norm="San Diego" corresp="#geographic.SanDiego">kwn San
+                        Diego</usg>
                      <usg type="socioCultural" norm="teen sl">teen sl</usg>
                      <pc>,</pc>
                      <usg type="time">mid '60s</usg>
@@ -3676,8 +3699,8 @@
                <sense xml:id="QV.gaydeceiver.2">
                   <lbl>2. </lbl>
                   <pc>(</pc>
-                  <usg type="geographic" norm="Cleveland" 
-                     corresp="#geographic.Cleveland">kwn Cleveland</usg>
+                  <usg type="geographic" norm="Cleveland" corresp="#geographic.Cleveland">kwn
+                     Cleveland</usg>
                   <pc>,</pc>
                   <usg type="time">mid '60s</usg>
                   <pc>)</pc>
@@ -3889,8 +3912,8 @@
                   <form type="lemma"><orth>jargon</orth></form>
                   <sense xml:id="QV.jargon.1">
                      <pc> (</pc>
-                     <usg type="geographic" norm="San Francisco"
-                        corresp="#geographic.SanFrancisco">kwn SF</usg>
+                     <usg type="geographic" norm="San Francisco" corresp="#geographic.SanFrancisco"
+                        >kwn SF</usg>
                      <pc>,</pc>
                      <usg type="time" norm="post Stonewall">'72</usg>
                      <pc>)</pc>
@@ -4088,8 +4111,8 @@
                <form type="lemma"><orth>Miss Pinky</orth></form>
                <sense xml:id="QV.MissPinky.1">
                   <pc>(</pc>
-                  <usg type="geographic" norm="Cleveland" 
-                     corresp="#geographic.Cleveland">kwn Cleveland</usg>
+                  <usg type="geographic" norm="Cleveland" corresp="#geographic.Cleveland">kwn
+                     Cleveland</usg>
                   <pc>,</pc>
                   <usg type="time">mid '60s</usg>
                   <pc>)</pc>
@@ -4143,7 +4166,7 @@
             <sense xml:id="QV.John.2">
                <lbl>2.</lbl>
                <pc>(</pc>
-               <usg type="domain" norm="prostitute slang">pros sl</usg>
+               <usg type="domain" norm="prostitute slang" expand="prostitute slang">pros sl</usg>
                <pc>,</pc>
                <etym>fr <name>John Doe</name>, an undeceiving alias</etym>
                <pc>)</pc>
@@ -4155,7 +4178,7 @@
                <sense xml:id="QV.geezer.1">
                   <pc> (</pc>
                   <usg type="geographic" norm="British" corresp="#geographic.GreatBritain">Brit </usg>
-                  <usg type="domain" norm="prostitute slang">pros sl</usg>
+                  <usg type="domain" norm="prostitute slang" expand="prostitute slang">pros sl</usg>
                   <pc>);</pc>
                </sense>
             </entry>
@@ -5051,8 +5074,7 @@
             <form type="lemma"><orth>run for somebody</orth></form>
             <sense xml:id="QV.runforsomebody.1">
                <pc>(</pc>
-               <usg type="geographic" norm="Illinois" 
-                  corresp="#geographic.Illinois">kwn Ill</usg>
+               <usg type="geographic" norm="Illinois" corresp="#geographic.Illinois">kwn Ill</usg>
                <pc>,</pc>
                <usg type="socioCultural" norm="les sl">les </usg>
                <usg type="socioCultural" norm="prison">prison sl</usg>
@@ -5196,7 +5218,12 @@
                </sense>
             </entry>
          </entry>
-
+         <entry xml:id="QV.splitparty" xml:lang="en" type="mainEntry">
+            <form type="lemma"><orth>split party</orth></form>
+            <sense xml:id="QV.splitparty.1">
+               <def> party with male and female homosexuals as guests.</def>
+            </sense>
+         </entry>
          <entry xml:id="QV.sweetleech" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>sweet leech</orth></form>
             <sense xml:id="QV.sweetleech.1">
@@ -5291,12 +5318,12 @@
                   </xr>.</def>
             </sense>
          </entry>
-         <entry xml:id="QV.truckdriver" xml:lang="en">
+         <entry xml:id="QV.truckdriver" xml:lang="en" type="mainEntry">
             <form type="lemma"><orth>truck driver</orth></form>
+            <usg type="domain" norm="truck"> </usg>
             <sense xml:id="QV.truckdriver.1">
                <lbl>1.</lbl>
                <def> homosexual, male or female, with masculine characteristics</def>
-               <usg type="domain" norm="truck"> </usg>
             </sense>
             <sense xml:id="QV.truckdriver.2">
                <lbl>2. </lbl>
@@ -5307,7 +5334,7 @@
                <pc>(</pc>
                <usg type="frequency" norm="obs">obs</usg>
                <pc>,</pc>
-               <usg type="domain" norm="prostitute slang">pros sl</usg>
+               <usg type="domain" norm="prostitute slang" expand="prostitute slang">pros sl</usg>
                <pc>) </pc>
                <def> braggart who compensates for his latent homosexuality.</def>
             </sense>
